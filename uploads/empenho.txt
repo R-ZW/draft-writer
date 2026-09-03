@@ -1,0 +1,142 @@
+Data e hora da consulta:
+Usuário:
+  20/03/2026 10:05
+        ***.124.050-**
+Nota de Empenho
+      Impressão Completa
+Código
+Nome
+Moeda
+Ano
+Tipo
+Número
+157363
+IFFAR - CAMPUS URUGUAIANA
+REAL - (R$)
+2026
+NE
+27
+Natureza da Despesa
+Esfera
+UGR
+PTRES
+Plano Interno
+Fonte de Recurso
+Célula Orçamentária
+1
+231523
+1000000000
+339030
+157453
+LEN10P01A0I
+Data de Emissão Tipo
+Processo
+Taxa de Câmbio
+Valor
+Código
+Nome
+Descrição
+Local da Entrega
+Informação Complementar
+16/03/2026
+Estimativo
+0000000000000000000 0,0000
+219,98
+39.751.442/0001-05
+REVENDEDORA CORREIA LTDA
+REQUISICAO DE NOTA DE EMPENHO GERE 001.003.2026 - DOC 01 - PARA AQUISICAO DE GARRAFA
+TERMICA PARA A C.A.E DO IFFAR CAMPUS URUGUAIANA - FORNECEDOR: REVENDEDORA CORREIA LTDA
+URUGUAIANA - RS / BRA
+15812705900442024 - UASG Minuta: 158503
+Artigo
+Código
+Parágrafo
+Modalidade de Licitação
+Incíso
+Ato Normativo
+Amparo Legal
+218
+PREGAO
+2
+-
+II
+-
+Alínea
+LEI 14.981/2024
+Sistema de Origem
+COMPRASNET-ME
+Favorecido
+Endereço
+CRESCENCIO DE ANDRADE 164 SUBSL 02 CENTRO
+CEP
+94410-040
+Município
+VIAMAO
+RS
+UF
+Telefone
+CNPJ
+10.662.072/0012-00
+CEP
+97503-748
+Endereço
+RUA MONTEIRO LOBATO-4442         URUGUAIANA - RS
+Município
+URUGUAIANA
+UF
+RS
+Telefone
+55.32189800
+UG Emitente
+1
+ de      2
+002
+Versão Data/Hora
+19/03/2026 17:12:47
+Operação
+Alteração
+
+Data e hora da consulta:
+Usuário:
+  20/03/2026 10:05
+        ***.124.050-**
+Nota de Empenho
+      Impressão Completa
+Lista de Itens
+Natureza de Despesa
+339030 - MATERIAL DE CONSUMO
+219,98
+Total da Lista
+Subelemento 19 - MATERIAL DE ACONDICIONAMENTO E EMBALAGEM
+001
+219,98
+Item compra: 00023 - GARRAFA TERMICA, MATERIAL PLASTICO
+REVESTIDO COM FIBRA, CAPACIDADE 12 L, FORMATO
+CILINDRICO, CARACTERISTICAS ADICIONAIS COM TORNEIRA
+Data
+Operação
+Quantidade Valor Unitário
+Valor Total
+16/03/2026 Inclusão
+2,00000
+109,9900
+219,98
+Seq.
+Descrição
+Valor do Item
+Ordenador de Despesa
+JHONATHAN A.DOS SANTOS SILVEIRA
+***.809.220-**
+19/03/2026 17:12:47
+Gestor Financeiro
+MAURICIO SANCHOTENE DALLA VECCHIA
+***.124.050-**
+17/03/2026 11:21:58
+Assinaturas
+2
+ de      2
+002
+Versão Data/Hora
+19/03/2026 17:12:47
+Operação
+Alteração

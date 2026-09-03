@@ -1,0 +1,254 @@
+{
+  "empenho": "2025NE000073",
+  "fornecedor": "REVENDEDORA CORREIA LTDA",
+  "cnpj": "10.662.072/0012-00",
+  "data_emissao_empenho": "2026-03-16",
+  "prazo_entrega_dias": null,
+  "data_envio_empenho": null,
+  "events": [
+    {
+      "date": "2026-01-29",
+      "time": "15:07:02",
+      "participant": "ADMINISTRACAO",
+      "type": "COMUNICACAO_ADMINISTRACAO",
+      "description": "Informa que o material entregue e as quantidades não correspondem ao solicitado no Empenho nº 2025NE000073 e solicita verificação e substituição.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c0af0618e46663"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "time": "16:08:46",
+      "participant": "EMPRESA",
+      "type": "MANIFESTACAO_EMPRESA",
+      "description": "Comunica que os puffs chegarão ao longo da semana e, posteriormente, os enchimentos.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c0b28a7bdd8a28"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "time": "16:29:19",
+      "participant": "ADMINISTRACAO",
+      "type": "COMUNICACAO_ADMINISTRACAO",
+      "description": "Reitera que o material recebido não corresponde às especificações do Empenho nº 2025NE000073 e solicita providências para substituição, anexando fotos do produto.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c0b3bb728a8251"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "time": "16:51:48",
+      "participant": "EMPRESA",
+      "type": "SOLICITACAO",
+      "description": "Solicita o termo de referência.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c0b500b2e6f366"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "time": "17:05:01",
+      "participant": "ADMINISTRACAO",
+      "type": "RESPOSTA",
+      "description": "Envia o termo de referência em anexo.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c0b5c646c5b44e"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "time": "18:00:33",
+      "participant": "ADMINISTRACAO",
+      "type": "COMUNICACAO_ADMINISTRACAO",
+      "description": "Encaminha documentos anexos para agilizar os trâmites e solicita confirmação de recebimento.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c0b8f15e536aa8"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "time": "18:00:50",
+      "participant": "EMPRESA",
+      "type": "MANIFESTACAO_EMPRESA",
+      "description": "Informa que o anexo não corresponde ao termo de referência solicitado.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c0b8f3f3222f24"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "time": "18:41:25",
+      "participant": "ADMINISTRACAO",
+      "type": "COMUNICACAO_ADMINISTRACAO",
+      "description": "Reencaminha os documentos necessários.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c0bb47653817f5"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "time": "08:18:07",
+      "participant": "ADMINISTRACAO",
+      "type": "COMUNICACAO_ADMINISTRACAO",
+      "description": "Reitera o aguardo de retorno referente ao material do Empenho nº 2025NE000073.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c32ad1fb04b24e"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "time": "08:50:23",
+      "participant": "EMPRESA",
+      "type": "MANIFESTACAO_EMPRESA",
+      "description": "Informa que providenciará a troca, orientando a embalar, enviar pelos Correios e informar o código de devolução (4323893535).",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c32ca2d22dae65"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "time": "09:33:28",
+      "participant": "ADMINISTRACAO",
+      "type": "SOLICITACAO",
+      "description": "Solicita o código de postagem para o envio.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c32f21b4021fd4"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "time": "09:50:10",
+      "participant": "EMPRESA",
+      "type": "RESPOSTA",
+      "description": "Fornece o código de postagem: 4323893535.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c3300eaef028fa"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "time": "09:54:30",
+      "participant": "ADMINISTRACAO",
+      "type": "SOLICITACAO",
+      "description": "Questiona se o código informado refere‑se aos dois materiais (puffs e enchimentos).",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c33055cefca767"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "time": "10:40:24",
+      "participant": "EMPRESA",
+      "type": "RESPOSTA",
+      "description": "Esclarece que somente os puffs serão devolvidos; os enchimentos serão aproveitados.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c332ee59a25346"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "time": "10:54:26",
+      "participant": "ADMINISTRACAO",
+      "type": "SOLICITACAO",
+      "description": "Solicita previsão de envio do material conforme o Empenho nº 2025NE000073.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c333c3d80d68e9"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "time": null,
+      "participant": "EMPRESA",
+      "type": "MANIFESTACAO_EMPRESA",
+      "description": "Envia instruções para troca dos puffs, incluindo código 4323893535 e prazo até quinta‑feira, 12 de fevereiro de 2026.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c395e851c9e46c (forwarded content dated 2026-02-05 10:11)"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-07",
+      "time": "15:30:02",
+      "participant": "ADMINISTRACAO",
+      "type": "COMUNICACAO_ADMINISTRACAO",
+      "description": "Encaminha e‑mail da empresa para providências.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c395e851c9e46c"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "time": "08:40:45",
+      "participant": "ADMINISTRACAO",
+      "type": "COMUNICACAO_ADMINISTRACAO",
+      "description": "Anexa comprovante da devolução dos puffs e solicita providências cabíveis.",
+      "evidence": [
+        {
+          "file": "email.json",
+          "reference": "19c51a76045a2e40"
+        }
+      ]
+    }
+  ],
+  "pending_issues": [
+    "Confirmação de recebimento do comprovante de devolução enviado em 12/02/2026.",
+    "Entrega do material de substituição ainda não confirmada."
+  ],
+  "ambiguities": [
+    "O empenho registra o fornecedor REVENDEDORA CORREIA LTDA (CNPJ 10.662.072/0012-00), porém a comunicação por e‑mail envolve Nubia Teixeira da Maia, sem CNPJ informado.",
+    "Prazo de entrega não consta como número de dias nas evidências; há apenas a data‑limite (12/02/2026) mencionada pelo fornecedor.",
+    "Data de envio do empenho para a empresa não está identificada nas evidências.",
+    "O termo de referência enviado em 29/01/2026 foi considerado incorreto pela empresa, sem clareza sobre qual documento é o correto."
+  ]
+}
