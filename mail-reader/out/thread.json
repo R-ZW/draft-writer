@@ -1,0 +1,832 @@
+{
+  "id": "19e896a8c3477557",
+  "historyId": "813119",
+  "messages": [
+    {
+      "id": "19e896f017288d3f",
+      "threadId": "19e896a8c3477557",
+      "labelIds": [
+        "SENT"
+      ],
+      "snippet": "Prezados, Encaminhamos, em anexo, documento referente ao Processo Administrativo Sancionador instaurado em face desta empresa, em razão do descumprimento contratual decorrente da não entrega do(s)",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/mixed",
+        "filename": "",
+        "headers": [
+          {
+            "name": "MIME-Version",
+            "value": "1.0"
+          },
+          {
+            "name": "Date",
+            "value": "Tue, 2 Jun 2026 14:43:04 -0300"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<CAA3VpshrDK=ipt6HY5c0MTMk_th0UgL98dgQcBVO2u7Q7_hfQg@mail.gmail.com>"
+          },
+          {
+            "name": "Subject",
+            "value": "Encaminhamento de Documento – Processo Administrativo Sancionador – Empenho 2023NE000324"
+          },
+          {
+            "name": "From",
+            "value": "\"Coordenação de Almoxarifado e Patrimônio Campus Uruguaiana\" <cap.ug@iffarroupilha.edu.br>"
+          },
+          {
+            "name": "To",
+            "value": "mpcomercio@gmail.com, mplicitacoes1@gmail.com, mpcomercios@gmail.com"
+          },
+          {
+            "name": "Cc",
+            "value": "\"Direção de Adm., Planej. e Desenv. Institucional Campus Uruguaiana\" <capd.ug@iffarroupilha.edu.br>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/mixed; boundary=\"0000000000009ab04f065348d94b\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "multipart/alternative",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "multipart/alternative; boundary=\"0000000000009ab04e065348d949\""
+              }
+            ],
+            "body": {
+              "size": 0
+            },
+            "parts": [
+              {
+                "partId": "0.0",
+                "mimeType": "text/plain",
+                "filename": "",
+                "headers": [
+                  {
+                    "name": "Content-Type",
+                    "value": "text/plain; charset=\"UTF-8\""
+                  },
+                  {
+                    "name": "Content-Transfer-Encoding",
+                    "value": "quoted-printable"
+                  }
+                ],
+                "body": {
+                  "size": 380,
+                  "data": "ICBQcmV6YWRvcywNCg0KICBFbmNhbWluaGFtb3MsIGVtIGFuZXhvLCBkb2N1bWVudG8gcmVmZXJlbnRlIGFvIFByb2Nlc3NvIEFkbWluaXN0cmF0aXZvDQpTYW5jaW9uYWRvciBpbnN0YXVyYWRvIGVtIGZhY2UgZGVzdGEgZW1wcmVzYSwgKmVtIHJhesOjbyBkbyBkZXNjdW1wcmltZW50bw0KY29udHJhdHVhbCBkZWNvcnJlbnRlIGRhIG7Do28gZW50cmVnYSBkbyhzKSBvYmpldG8ocykgY29uc3RhbnRlKHMpIG5vDQplbXBlbmhvIDIwMjNORTAwMDMyNC4qDQoNCg0KDQoNCiAgIEF0ZW5jaW9zYW1lbnRlLA0KDQogICBJdGFtYXIgUmliYWN6DQogICBTZXRvciBkZSBBbG1veGFyaWZhZG8gZSBQYXRyaW3DtG5pbw0KICAgSUZGYXIg4oCTIENhbXB1cyBVcnVndWFpYW5hDQo="
+                }
+              },
+              {
+                "partId": "0.1",
+                "mimeType": "text/html",
+                "filename": "",
+                "headers": [
+                  {
+                    "name": "Content-Type",
+                    "value": "text/html; charset=\"UTF-8\""
+                  },
+                  {
+                    "name": "Content-Transfer-Encoding",
+                    "value": "quoted-printable"
+                  }
+                ],
+                "body": {
+                  "size": 463,
+                  "data": "PGRpdiBkaXI9Imx0ciI-PHA-wqAgUHJlemFkb3MsPC9wPjxwPsKgIEVuY2FtaW5oYW1vcywgZW0gYW5leG8sIGRvY3VtZW50byByZWZlcmVudGUgYW8gUHJvY2Vzc28gQWRtaW5pc3RyYXRpdm8gU2FuY2lvbmFkb3IgaW5zdGF1cmFkbyBlbSBmYWNlIGRlc3RhIGVtcHJlc2EswqA8Yj5lbSByYXrDo28gZG8gZGVzY3VtcHJpbWVudG8gY29udHJhdHVhbCBkZWNvcnJlbnRlIGRhIG7Do28gZW50cmVnYSBkbyhzKSBvYmpldG8ocykgY29uc3RhbnRlKHMpIG5vIGVtcGVuaG8gMjAyM05FMDAwMzI0LjwvYj7CoDwvcD48cD48YnI-PC9wPjxwPjxicj48L3A-PHA-PGJyPjwvcD48cD7CoCDCoEF0ZW5jaW9zYW1lbnRlLDwvcD48cD7CoCDCoEl0YW1hciBSaWJhY3o8YnI-wqAgwqBTZXRvciBkZSBBbG1veGFyaWZhZG8gZSBQYXRyaW3DtG5pbzxicj7CoCDCoElGRmFyIOKAkyBDYW1wdXMgVXJ1Z3VhaWFuYTwvcD48L2Rpdj4NCg=="
+                }
+              }
+            ]
+          },
+          {
+            "partId": "1",
+            "mimeType": "application/pdf",
+            "filename": "Comunicacao 324-2023.pdf",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "application/pdf; name=\"Comunicacao 324-2023.pdf\""
+              },
+              {
+                "name": "Content-Disposition",
+                "value": "attachment; filename=\"Comunicacao 324-2023.pdf\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              },
+              {
+                "name": "X-Attachment-Id",
+                "value": "f_mpwxe8f30"
+              },
+              {
+                "name": "Content-ID",
+                "value": "<f_mpwxe8f30>"
+              }
+            ],
+            "body": {
+              "attachmentId": "ANGjdJ-QHcpzuqSlqXi_od00-YqkapmUQgWHMUE4IsZSvhzaTyA5sEfS4YMBnCEBoCguscTolIK7uIK65oZdgvVdpstGcee7T4J90XqpreBlEF4WzUy50ewDgEh1lEKtLKM_7urdTR1yc7uD62g3GCwmFSanNA2OLQSeccCBjYh6C2v8UmZFnm6kffrc4JbCm0c-opkU3LNZntEweGosNtWI68SOyEZ44DNkDxUlVoWOAuTeypEWPYuwFV6WPeyPwiQsR5u_HLVUIUlF-nTNlleIV3RZ1lvbEPNRb6RQ3SV60zESmW70478Zm5xQ-3k",
+              "size": 24965
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 36517,
+      "historyId": "813119",
+      "internalDate": "1780422184000"
+    },
+    {
+      "id": "19e8d71df05ef049",
+      "threadId": "19e896a8c3477557",
+      "labelIds": [
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Prezado, Informamos que na época ocorreram várias situações já relatadas, por exemplo, seca em Manaus que impactou na indústria de ar condicionado, cujo, todas as indústrias ficam localizadas na região",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "cap.ug@iffarroupilha.edu.br"
+          },
+          {
+            "name": "Received",
+            "value": "by 2002:a05:7022:6887:b0:12c:5d45:f257 with SMTP id cm7csp3380483dlb;        Wed, 3 Jun 2026 05:25:11 -0700 (PDT)"
+          },
+          {
+            "name": "X-Received",
+            "value": "by 2002:a05:6808:144f:b0:482:5bd1:d8e5 with SMTP id 5614622812f47-4865a9256ddmr1714437b6e.9.1780489510843;        Wed, 03 Jun 2026 05:25:10 -0700 (PDT)"
+          },
+          {
+            "name": "ARC-Seal",
+            "value": "i=2; a=rsa-sha256; t=1780489510; cv=pass;        d=google.com; s=arc-20240605;        b=jLH9YAuxEpB7MwwxTMDLMNa8R1HcidEOhFjhnkievgb3DK+HkfbCYSdMCMEE3EmMYE         bKQTPKJtks9zSbYDErjwAPpT+HL5//qElazF++L6vHyDcEkW+ohn9r46zmT8ZIC+yzsH         XJGVxu+lfXBiQUQmI2VdCF7uHbuH0OfY/DN6cGf6ZzBnc0OEgSrZnfBClfGo2Ti2Pd98         3Ck9uNjB5lAC7HhmmB+N5u1l3uBtKJdNaaV1OBMgzR4VVVMU1naZwbqmnpIpSp6bN1o0         YRc6pMK0oOwC+I45mSLfz0lOVrmlC4cdTLeUkYw72pucfZvz6aUwpXyZ31hBm08oWCGI         MSWw=="
+          },
+          {
+            "name": "ARC-Message-Signature",
+            "value": "i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=to:subject:message-id:date:from:in-reply-to:references:mime-version         :dkim-signature;        bh=MEqdnMJnjEj4GKFecD1EIVpyO4gRWvAB/wn4fQHyC14=;        fh=lQvfDwkTUqwCGQTMvmfuUvRR7kBjqv8ybDTJQSRfHHA=;        b=Lbi4VzPxfDeu8xCeqn7ErP6Xcz3lyDcbrYx0Fa00WSmR2L88saxof/IvqsvyM5+xqi         ANkPMRZokBgPMbWSH2XAhCraL9+JI7PbEw35pmygHoR7Dbi+kX2/KIa1Y6vz7DpLGf7F         jq84wFSEJghMdDpR4TS1QPXa/NhYH7ph4iIkT/vvq10/jFcMVLslJ50+Dl2ZynMadVd1         1QjpNtj1O0VGINJy1LlekGuuGQ+oLi3WOcjejS6T4AfWlRXV7LKQU0yFf6AkkkxUuvJS         Ohk+ja9Il7a/rRxDOl2JlUmpyejoaUjFIAl6s2anhzqLrZYTAxz2hiTi5Ixba4njUXCt         6b9A==;        dara=google.com"
+          },
+          {
+            "name": "ARC-Authentication-Results",
+            "value": "i=2; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20251104 header.b=\"ic8TQG/Y\";       arc=pass (i=1);       spf=pass (google.com: domain of mpcomercios@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=mpcomercios@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;       dara=fail header.i=@iffarroupilha.edu.br"
+          },
+          {
+            "name": "Return-Path",
+            "value": "<mpcomercios@gmail.com>"
+          },
+          {
+            "name": "Received",
+            "value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id 5614622812f47-4865b5a3a1csor1030554b6e.2.2026.06.03.05.25.10        for <cap.ug@iffarroupilha.edu.br>        (Google Transport Security);        Wed, 03 Jun 2026 05:25:10 -0700 (PDT)"
+          },
+          {
+            "name": "Received-SPF",
+            "value": "pass (google.com: domain of mpcomercios@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+          },
+          {
+            "name": "Authentication-Results",
+            "value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20251104 header.b=\"ic8TQG/Y\";       arc=pass (i=1);       spf=pass (google.com: domain of mpcomercios@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=mpcomercios@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;       dara=fail header.i=@iffarroupilha.edu.br"
+          },
+          {
+            "name": "ARC-Seal",
+            "value": "i=1; a=rsa-sha256; t=1780489510; cv=none;        d=google.com; s=arc-20240605;        b=AihBpm1MKspu+PD7fTDUrtEDvIjU6GyomdSeOYzST1hGzhLhmLKbajSD4lIbUhxgDl         MButRaIEyRwlNMQRJS4LxTHHapzGJFD1ZuFQk740cYNW8jsLrsGL17KthrVZ65pLI4jd         pgWMmZhqGQr18oi+6s9FCsAPaO3AGzV/fWVzO/AWb+ZedKgROLZVaarmQei5CdSJdN/S         L9Jzs11hJ17ktcMPtT4oht/G2KAOJUqiiWyVLjVxsBnkns8ku4Dbetc1BqHsuJfeAWkx         Yr0/au1t5ID1LZ4eq6cZ//HFlDoSV3OQswLWNu92uuSnG3lmUggTnUjYO6gHmQTiZuTj         /bxg=="
+          },
+          {
+            "name": "ARC-Message-Signature",
+            "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=to:subject:message-id:date:from:in-reply-to:references:mime-version         :dkim-signature;        bh=MEqdnMJnjEj4GKFecD1EIVpyO4gRWvAB/wn4fQHyC14=;        fh=lQvfDwkTUqwCGQTMvmfuUvRR7kBjqv8ybDTJQSRfHHA=;        b=cvahbQMAsSnrBqrWloz1u16OMOp4Ddlf1PoI5mWHnR17aTfOiuoch1I4b41ShQJPf2         q+3s95xZMMF3aSqYZ/EU8TgbcV5a0Oo6/O7l5EjY/gBTX0yXi8IxNXUnhV+3FYb6wTmS         9FbXmlWHV7vr5H+V3ihP7Kv9DfLtH17o9KZMMEquZPq0y0SLu8GSIx1uC0uyaLXroe+7         B3WcHNEmIqYhI9t93XgkNafVkm5N4CvFrTy3hOCYJmCTPdWeDrBjze9tEWoSUCc54RXH         CLNbUK0923AEn9BA48RJaLRH48kysJirzIc6lmS+qXBzn+FMtWRCP7xvKc9ycV7MrfqZ         bPIg==;        darn=iffarroupilha.edu.br"
+          },
+          {
+            "name": "ARC-Authentication-Results",
+            "value": "i=1; mx.google.com; arc=none"
+          },
+          {
+            "name": "DKIM-Signature",
+            "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20251104; t=1780489510; x=1781094310; darn=iffarroupilha.edu.br;        h=to:subject:message-id:date:from:in-reply-to:references:mime-version         :from:to:cc:subject:date:message-id:reply-to;        bh=MEqdnMJnjEj4GKFecD1EIVpyO4gRWvAB/wn4fQHyC14=;        b=ic8TQG/Y61mIL+Q83X6UMTSRV60FaNscpU8XLP6HuQYAGCRv2EAzY2fUWJNsurMFfO         vz9aWW8Z/l8RcOtarD0Vqz7YfspxX8ek8XIGVJFZuVtOKXzt+Tu6JKkN7SoufaLF5BS5         2GudA5qMbX+jjQQLbAWcfjz1yUX4YiQuSvQLQON7qF4Krwbp8f6zSVjZ7ICfByEcFhCu         yP0RnpohGiabVaZsRlz3+ugojp/EJzoylNnQkhUo9b6RfdvCsThJq4gUYAyjjP7m75VF         jUIGH+8VtnCGD2zJ5GKgmvK9ltI4BPrL+xhFhYiwqDaBtPNgb2X4A/BdnI9FnUmhItMX         HtAA=="
+          },
+          {
+            "name": "X-Google-DKIM-Signature",
+            "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20251104; t=1780489510; x=1781094310;        h=to:subject:message-id:date:from:in-reply-to:references:mime-version         :x-gm-gg:x-gm-message-state:from:to:cc:subject:date:message-id         :reply-to;        bh=MEqdnMJnjEj4GKFecD1EIVpyO4gRWvAB/wn4fQHyC14=;        b=WzvmLopWITM4opvepzBFeGBt348iM+Hsgaezdu66pQcKiSfxw/rJ2TMbNyDviuyICf         dcPf8MjR07xZVuVLync+3eIfWIIKhbQnUVssOdfVD5ntgR3Rmt6zxp23lglJQ2aZcPeX         M1Sw9ioYDthkCj0JMsh8GVj9IZw5jxtOqbZpdjRUzcWHEAojv4PgUaVQkqmWX70cJe6L         NlcbWDgpW5PeIcgj7UROPXoG50l9HqLv8HDm9xcUodoxQu6rk2j6nkwaVuMZcsnAw7bQ         xWt9ZKHDDRoI4wh/jHBynOauQxokiksQPSzfRQ4UgZXaavFJjk/t0fQYxzhM84l776xz         9/lA=="
+          },
+          {
+            "name": "X-Gm-Message-State",
+            "value": "AOJu0Yx7IVP5/Yb39SK1tdG0Iu/GK1dV90pJquBRl80AXvFkUQVRK7Hr nkaYDoHpLeR70aYVDuCvI7CVlKlP5XCkGEut66XoxVXNDEIpgkhDPp6EmWsIwUJK1u3eSpQ1ajk qS3IFd5L2/6mmUxhcWM1jBH/az1iN0aEywA=="
+          },
+          {
+            "name": "X-Gm-Gg",
+            "value": "Acq92OGfcbq9LUEe5en3/04uEqXBj8mTYF5ehQr0e3UwqWcWNbSEpNl8L3M4PuvdBAT ibSWi7NosPrUek20yEvHHp4FiyGvSp7wUEu1yY67/gyUQUJvhSN3+zevOhHpfzwkM5rDA+0h3zW ccXPI3VuWZoZVcCp/t+kYtgVy8izU1+puxffGoQlUdeJsckyH8j1ICQfO+XalCRQ2djewWPJDe4 9VxxUKqftrV7jmhvzYD/c959QWFNXPTFvn+jfCf57+GH4Nf8+QnY8plz6QpfI04HohbUVOyg5X3 XnS0pt78WrDFOOGUdFZ8+QwRsK6UJL0CrK7QtbXDpb+SZLyVq8ug"
+          },
+          {
+            "name": "X-Received",
+            "value": "by 2002:a05:6808:309b:b0:479:ec12:343 with SMTP id 5614622812f47-4865ab1b9e9mr1763247b6e.31.1780489510100; Wed, 03 Jun 2026 05:25:10 -0700 (PDT)"
+          },
+          {
+            "name": "MIME-Version",
+            "value": "1.0"
+          },
+          {
+            "name": "References",
+            "value": "<CAA3VpshrDK=ipt6HY5c0MTMk_th0UgL98dgQcBVO2u7Q7_hfQg@mail.gmail.com>"
+          },
+          {
+            "name": "In-Reply-To",
+            "value": "<CAA3VpshrDK=ipt6HY5c0MTMk_th0UgL98dgQcBVO2u7Q7_hfQg@mail.gmail.com>"
+          },
+          {
+            "name": "From",
+            "value": "Mpcomercio Servicos <mpcomercios@gmail.com>"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 3 Jun 2026 09:24:58 -0300"
+          },
+          {
+            "name": "X-Gm-Features",
+            "value": "AVHnY4J-uTZr24Vvyr7K2oDx5MIbfDoFYqy-e86dGnY705w3bND1VolPziReEAM"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<CAA8h5ddCWcE4nEFNaBfbjOJjQ9V5Cg+KkPcK65GqmTweJTfquw@mail.gmail.com>"
+          },
+          {
+            "name": "Subject",
+            "value": "Re: Encaminhamento de Documento – Processo Administrativo Sancionador – Empenho 2023NE000324"
+          },
+          {
+            "name": "To",
+            "value": "\"Coordenação de Almoxarifado e Patrimônio Campus Uruguaiana\" <cap.ug@iffarroupilha.edu.br>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000c6a5010653588425\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "quoted-printable"
+              }
+            ],
+            "body": {
+              "size": 949,
+              "data": "UHJlemFkbywNCg0KSW5mb3JtYW1vcyBxdWUgbmEgw6lwb2NhIG9jb3JyZXJhbSB2w6FyaWFzIHNpdHVhw6fDtWVzIGrDoSByZWxhdGFkYXMsIHBvcg0KZXhlbXBsbywgc2VjYSBlbSBNYW5hdXMgcXVlIGltcGFjdG91IG5hIGluZMO6c3RyaWEgZGUgYXIgY29uZGljaW9uYWRvLCBjdWpvLA0KdG9kYXMgYXMgaW5kw7pzdHJpYXMgZmljYW0gbG9jYWxpemFkYXMgbmEgcmVnacOjby4NCg0KSW5mZWxpem1lbnRlLCBuw6NvIHRpbmhhIGFwYXJlbGhvcyBkaXNwb27DrXZlaXMsIGNvbmZvcm1lIGRvY3VtZW50b3MgZW52aWFkbw0KYSDDqXBvY2EuDQoNCipNUCBDT03DiVJDSU8gRSBTRVJWScOHTyBNRSoNCipDTlBKLjE5LjMxMi42OTEvMDAwMS05NyoNCipUZWwuOiAoMjcpIDk5OTgyLjMwMDIqDQoNCg0KDQpFbSB0ZXIuLCAyIGRlIGp1bi4gZGUgMjAyNiDDoHMgMTQ6NDMsIENvb3JkZW5hw6fDo28gZGUgQWxtb3hhcmlmYWRvIGUNClBhdHJpbcO0bmlvIENhbXB1cyBVcnVndWFpYW5hIDxjYXAudWdAaWZmYXJyb3VwaWxoYS5lZHUuYnI-IGVzY3JldmV1Og0KDQo-ICAgUHJlemFkb3MsDQo-DQo-ICAgRW5jYW1pbmhhbW9zLCBlbSBhbmV4bywgZG9jdW1lbnRvIHJlZmVyZW50ZSBhbyBQcm9jZXNzbyBBZG1pbmlzdHJhdGl2bw0KPiBTYW5jaW9uYWRvciBpbnN0YXVyYWRvIGVtIGZhY2UgZGVzdGEgZW1wcmVzYSwgKmVtIHJhesOjbyBkbyBkZXNjdW1wcmltZW50bw0KPiBjb250cmF0dWFsIGRlY29ycmVudGUgZGEgbsOjbyBlbnRyZWdhIGRvKHMpIG9iamV0byhzKSBjb25zdGFudGUocykgbm8NCj4gZW1wZW5obyAyMDIzTkUwMDAzMjQuKg0KPg0KPg0KPg0KPg0KPiAgICBBdGVuY2lvc2FtZW50ZSwNCj4NCj4gICAgSXRhbWFyIFJpYmFjeg0KPiAgICBTZXRvciBkZSBBbG1veGFyaWZhZG8gZSBQYXRyaW3DtG5pbw0KPiAgICBJRkZhciDigJMgQ2FtcHVzIFVydWd1YWlhbmENCj4NCg=="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "quoted-printable"
+              }
+            ],
+            "body": {
+              "size": 2304,
+              "data": "PGRpdiBkaXI9Imx0ciI-PGRpdj5QcmV6YWRvLDwvZGl2PjxkaXY-PGJyPjwvZGl2PjxkaXY-SW5mb3JtYW1vcyBxdWUgbmEgw6lwb2NhIG9jb3JyZXJhbSB2w6FyaWFzwqBzaXR1YcOnw7VlcyBqw6EgcmVsYXRhZGFzLCBwb3IgZXhlbXBsbywgc2VjYSBlbSBNYW5hdXMgcXVlIGltcGFjdG91IG5hIGluZMO6c3RyaWEgZGUgYXIgY29uZGljaW9uYWRvLCBjdWpvLCB0b2RhcyBhcyBpbmTDunN0cmlhc8KgZmljYW0gbG9jYWxpemFkYXMgbmEgcmVnacOjby48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PkluZmVsaXptZW50ZSwgbsOjbyB0aW5oYSBhcGFyZWxob3MgZGlzcG9uw612ZWlzLCBjb25mb3JtZSBkb2N1bWVudG9zIGVudmlhZG8gYSDDqXBvY2EuPC9kaXY-PGRpdj7CoDwvZGl2PjxkaXY-PGRpdiBkaXI9Imx0ciIgY2xhc3M9ImdtYWlsX3NpZ25hdHVyZSIgZGF0YS1zbWFydG1haWw9ImdtYWlsX3NpZ25hdHVyZSI-PGRpdiBkaXI9Imx0ciI-PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXY-PGRpdiBkaXI9Imx0ciI-PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPjwvZm9udD48L2I-PC9kaXY-PGRpdiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LXNpemU6MTIuOHB4Ij48Yj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI-TVAgQ09Nw4lSQ0lPIEUgU0VSVknDh08gTUU8L2ZvbnQ-PC9iPjwvZGl2PjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPkNOUEouMTkuMzEyLjY5MS8wMDAxLTk3PC9mb250PjwvYj48L2Rpdj48ZGl2IHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDApO2ZvbnQtc2l6ZToxMi44cHgiPjxiPjxmb250IGZhY2U9ImFyaWFsLCBzYW5zLXNlcmlmIj5UZWwuOiAoMjcpIDk5OTgyLjMwMDI8L2ZvbnQ-PC9iPjwvZGl2PjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGk-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPsKgPGltZyB3aWR0aD0iODQiIGhlaWdodD0iOTYiIHNyYz0iaHR0cHM6Ly9jaTMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL21haWwtc2lnL0FJb3JLNHdNUmR5OFd5cG9jRkdmLXAxWHhzV3NSeXV5SXVGTkF1U1pZZU1CUUJFVmpBYUFMRjhUeGRoejl0NU1kQkVtVm9ONmh5NktsSEZJTGhhMSI-IMKgIMKgIMKgwqA8L2ZvbnQ-PC9pPjwvYj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48YnI-PC9kaXY-PGJyPjxkaXYgY2xhc3M9ImdtYWlsX3F1b3RlIGdtYWlsX3F1b3RlX2NvbnRhaW5lciI-PGRpdiBkaXI9Imx0ciIgY2xhc3M9ImdtYWlsX2F0dHIiPkVtIHRlci4sIDIgZGUganVuLiBkZSAyMDI2IMOgcyAxNDo0MywgQ29vcmRlbmHDp8OjbyBkZSBBbG1veGFyaWZhZG8gZSBQYXRyaW3DtG5pbyBDYW1wdXMgVXJ1Z3VhaWFuYSAmbHQ7PGEgaHJlZj0ibWFpbHRvOmNhcC51Z0BpZmZhcnJvdXBpbGhhLmVkdS5iciI-Y2FwLnVnQGlmZmFycm91cGlsaGEuZWR1LmJyPC9hPiZndDsgZXNjcmV2ZXU6PGJyPjwvZGl2PjxibG9ja3F1b3RlIGNsYXNzPSJnbWFpbF9xdW90ZSIgc3R5bGU9Im1hcmdpbjowcHggMHB4IDBweCAwLjhleDtib3JkZXItbGVmdDoxcHggc29saWQgcmdiKDIwNCwyMDQsMjA0KTtwYWRkaW5nLWxlZnQ6MWV4Ij48ZGl2IGRpcj0ibHRyIj48cD7CoCBQcmV6YWRvcyw8L3A-PHA-wqAgRW5jYW1pbmhhbW9zLCBlbSBhbmV4bywgZG9jdW1lbnRvIHJlZmVyZW50ZSBhbyBQcm9jZXNzbyBBZG1pbmlzdHJhdGl2byBTYW5jaW9uYWRvciBpbnN0YXVyYWRvIGVtIGZhY2UgZGVzdGEgZW1wcmVzYSzCoDxiPmVtIHJhesOjbyBkbyBkZXNjdW1wcmltZW50byBjb250cmF0dWFsIGRlY29ycmVudGUgZGEgbsOjbyBlbnRyZWdhIGRvKHMpIG9iamV0byhzKSBjb25zdGFudGUocykgbm8gZW1wZW5obyAyMDIzTkUwMDAzMjQuPC9iPsKgPC9wPjxwPjxicj48L3A-PHA-PGJyPjwvcD48cD48YnI-PC9wPjxwPsKgIMKgQXRlbmNpb3NhbWVudGUsPC9wPjxwPsKgIMKgSXRhbWFyIFJpYmFjejxicj7CoCDCoFNldG9yIGRlIEFsbW94YXJpZmFkbyBlIFBhdHJpbcO0bmlvPGJyPsKgIMKgSUZGYXIg4oCTIENhbXB1cyBVcnVndWFpYW5hPC9wPjwvZGl2Pg0KPC9ibG9ja3F1b3RlPjwvZGl2Pg0K"
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 11226,
+      "historyId": "813119",
+      "internalDate": "1780489498000"
+    },
+    {
+      "id": "19e8f1fc06d000ca",
+      "threadId": "19e896a8c3477557",
+      "labelIds": [
+        "YELLOW_STAR",
+        "STARRED",
+        "SENT"
+      ],
+      "snippet": "Para fins de julgamento da desconformidade na entrega do empenho supramencionado, solicitamos o envio dos documentos mencionados pela empresa. Atenciosamente, Itamar Ribacz Setor de Almoxarifado e",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "MIME-Version",
+            "value": "1.0"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 3 Jun 2026 17:14:11 -0300"
+          },
+          {
+            "name": "References",
+            "value": "<CAA3VpshrDK=ipt6HY5c0MTMk_th0UgL98dgQcBVO2u7Q7_hfQg@mail.gmail.com> <CAA8h5ddCWcE4nEFNaBfbjOJjQ9V5Cg+KkPcK65GqmTweJTfquw@mail.gmail.com>"
+          },
+          {
+            "name": "In-Reply-To",
+            "value": "<CAA8h5ddCWcE4nEFNaBfbjOJjQ9V5Cg+KkPcK65GqmTweJTfquw@mail.gmail.com>"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<CAA3VpsibVwpuiiEMqV1q3co3+ZT5NvSAOF_o0qyCA=WWoeVNhw@mail.gmail.com>"
+          },
+          {
+            "name": "Subject",
+            "value": "Re: Encaminhamento de Documento – Processo Administrativo Sancionador – Empenho 2023NE000324"
+          },
+          {
+            "name": "From",
+            "value": "\"Coordenação de Almoxarifado e Patrimônio Campus Uruguaiana\" <cap.ug@iffarroupilha.edu.br>"
+          },
+          {
+            "name": "To",
+            "value": "Mpcomercio Servicos <mpcomercios@gmail.com>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"00000000000009f7bf06535f14ba\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "quoted-printable"
+              }
+            ],
+            "body": {
+              "size": 1362,
+              "data": "ICBQYXJhIGZpbnMgZGUganVsZ2FtZW50byBkYSBkZXNjb25mb3JtaWRhZGUgbmEgZW50cmVnYSBkbyBlbXBlbmhvDQpzdXByYW1lbmNpb25hZG8sIHNvbGljaXRhbW9zIG8gZW52aW8gZG9zIGRvY3VtZW50b3MgbWVuY2lvbmFkb3MgcGVsYQ0KZW1wcmVzYS4NCg0KDQoNCiAgIEF0ZW5jaW9zYW1lbnRlLA0KDQogICBJdGFtYXIgUmliYWN6DQogICBTZXRvciBkZSBBbG1veGFyaWZhZG8gZSBQYXRyaW3DtG5pbw0KICAgSUZGYXIg4oCTIENhbXB1cyBVcnVndWFpYW5hDQoNCkVtIHF1YS4sIDMgZGUganVuLiBkZSAyMDI2IMOgcyAwOToyNSwgTXBjb21lcmNpbyBTZXJ2aWNvcyA8DQptcGNvbWVyY2lvc0BnbWFpbC5jb20-IGVzY3JldmV1Og0KDQo-IFByZXphZG8sDQo-DQo-IEluZm9ybWFtb3MgcXVlIG5hIMOpcG9jYSBvY29ycmVyYW0gdsOhcmlhcyBzaXR1YcOnw7VlcyBqw6EgcmVsYXRhZGFzLCBwb3INCj4gZXhlbXBsbywgc2VjYSBlbSBNYW5hdXMgcXVlIGltcGFjdG91IG5hIGluZMO6c3RyaWEgZGUgYXIgY29uZGljaW9uYWRvLCBjdWpvLA0KPiB0b2RhcyBhcyBpbmTDunN0cmlhcyBmaWNhbSBsb2NhbGl6YWRhcyBuYSByZWdpw6NvLg0KPg0KPiBJbmZlbGl6bWVudGUsIG7Do28gdGluaGEgYXBhcmVsaG9zIGRpc3BvbsOtdmVpcywgY29uZm9ybWUgZG9jdW1lbnRvcyBlbnZpYWRvDQo-IGEgw6lwb2NhLg0KPg0KPiAqTVAgQ09Nw4lSQ0lPIEUgU0VSVknDh08gTUUqDQo-ICpDTlBKLjE5LjMxMi42OTEvMDAwMS05NyoNCj4gKlRlbC46ICgyNykgOTk5ODIuMzAwMioNCj4NCj4NCj4NCj4gRW0gdGVyLiwgMiBkZSBqdW4uIGRlIDIwMjYgw6BzIDE0OjQzLCBDb29yZGVuYcOnw6NvIGRlIEFsbW94YXJpZmFkbyBlDQo-IFBhdHJpbcO0bmlvIENhbXB1cyBVcnVndWFpYW5hIDxjYXAudWdAaWZmYXJyb3VwaWxoYS5lZHUuYnI-IGVzY3JldmV1Og0KPg0KPj4gICBQcmV6YWRvcywNCj4-DQo-PiAgIEVuY2FtaW5oYW1vcywgZW0gYW5leG8sIGRvY3VtZW50byByZWZlcmVudGUgYW8gUHJvY2Vzc28gQWRtaW5pc3RyYXRpdm8NCj4-IFNhbmNpb25hZG9yIGluc3RhdXJhZG8gZW0gZmFjZSBkZXN0YSBlbXByZXNhLCAqZW0gcmF6w6NvIGRvDQo-PiBkZXNjdW1wcmltZW50byBjb250cmF0dWFsIGRlY29ycmVudGUgZGEgbsOjbyBlbnRyZWdhIGRvKHMpIG9iamV0byhzKQ0KPj4gY29uc3RhbnRlKHMpIG5vIGVtcGVuaG8gMjAyM05FMDAwMzI0LioNCj4-DQo-Pg0KPj4NCj4-DQo-PiAgICBBdGVuY2lvc2FtZW50ZSwNCj4-DQo-PiAgICBJdGFtYXIgUmliYWN6DQo-PiAgICBTZXRvciBkZSBBbG1veGFyaWZhZG8gZSBQYXRyaW3DtG5pbw0KPj4gICAgSUZGYXIg4oCTIENhbXB1cyBVcnVndWFpYW5hDQo-Pg0KPg0K"
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "quoted-printable"
+              }
+            ],
+            "body": {
+              "size": 3000,
+              "data": "PGRpdiBkaXI9Imx0ciI-wqAgUGFyYSBmaW5zIGRlIGp1bGdhbWVudG8gZGEgZGVzY29uZm9ybWlkYWRlIG5hIGVudHJlZ2EgZG8gZW1wZW5obyBzdXByYW1lbmNpb25hZG8sIHNvbGljaXRhbW9zIG8gZW52aW8gZG9zIGRvY3VtZW50b3MgbWVuY2lvbmFkb3MgcGVsYSBlbXByZXNhLsKgwqA8ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PjxwPsKgIMKgQXRlbmNpb3NhbWVudGUsPC9wPjxwPsKgIMKgSXRhbWFyIFJpYmFjejxicj7CoCDCoFNldG9yIGRlIEFsbW94YXJpZmFkbyBlIFBhdHJpbcO0bmlvPGJyPsKgIMKgSUZGYXIg4oCTIENhbXB1cyBVcnVndWFpYW5hPC9wPjwvZGl2PjwvZGl2Pjxicj48ZGl2IGNsYXNzPSJnbWFpbF9xdW90ZSBnbWFpbF9xdW90ZV9jb250YWluZXIiPjxkaXYgZGlyPSJsdHIiIGNsYXNzPSJnbWFpbF9hdHRyIj5FbSBxdWEuLCAzIGRlIGp1bi4gZGUgMjAyNiDDoHMgMDk6MjUsIE1wY29tZXJjaW8gU2Vydmljb3MgJmx0OzxhIGhyZWY9Im1haWx0bzptcGNvbWVyY2lvc0BnbWFpbC5jb20iPm1wY29tZXJjaW9zQGdtYWlsLmNvbTwvYT4mZ3Q7IGVzY3JldmV1Ojxicj48L2Rpdj48YmxvY2txdW90ZSBjbGFzcz0iZ21haWxfcXVvdGUiIHN0eWxlPSJtYXJnaW46MHB4IDBweCAwcHggMC44ZXg7Ym9yZGVyLWxlZnQ6MXB4IHNvbGlkIHJnYigyMDQsMjA0LDIwNCk7cGFkZGluZy1sZWZ0OjFleCI-PGRpdiBkaXI9Imx0ciI-PGRpdj5QcmV6YWRvLDwvZGl2PjxkaXY-PGJyPjwvZGl2PjxkaXY-SW5mb3JtYW1vcyBxdWUgbmEgw6lwb2NhIG9jb3JyZXJhbSB2w6FyaWFzwqBzaXR1YcOnw7VlcyBqw6EgcmVsYXRhZGFzLCBwb3IgZXhlbXBsbywgc2VjYSBlbSBNYW5hdXMgcXVlIGltcGFjdG91IG5hIGluZMO6c3RyaWEgZGUgYXIgY29uZGljaW9uYWRvLCBjdWpvLCB0b2RhcyBhcyBpbmTDunN0cmlhc8KgZmljYW0gbG9jYWxpemFkYXMgbmEgcmVnacOjby48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PkluZmVsaXptZW50ZSwgbsOjbyB0aW5oYSBhcGFyZWxob3MgZGlzcG9uw612ZWlzLCBjb25mb3JtZSBkb2N1bWVudG9zIGVudmlhZG8gYSDDqXBvY2EuPC9kaXY-PGRpdj7CoDwvZGl2PjxkaXY-PGRpdiBkaXI9Imx0ciIgY2xhc3M9ImdtYWlsX3NpZ25hdHVyZSI-PGRpdiBkaXI9Imx0ciI-PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXY-PGRpdiBkaXI9Imx0ciI-PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPjwvZm9udD48L2I-PC9kaXY-PGRpdiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LXNpemU6MTIuOHB4Ij48Yj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI-TVAgQ09Nw4lSQ0lPIEUgU0VSVknDh08gTUU8L2ZvbnQ-PC9iPjwvZGl2PjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPkNOUEouMTkuMzEyLjY5MS8wMDAxLTk3PC9mb250PjwvYj48L2Rpdj48ZGl2IHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDApO2ZvbnQtc2l6ZToxMi44cHgiPjxiPjxmb250IGZhY2U9ImFyaWFsLCBzYW5zLXNlcmlmIj5UZWwuOiAoMjcpIDk5OTgyLjMwMDI8L2ZvbnQ-PC9iPjwvZGl2PjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGk-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPsKgPGltZyB3aWR0aD0iODQiIGhlaWdodD0iOTYiIHNyYz0iaHR0cHM6Ly9jaTMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL21haWwtc2lnL0FJb3JLNHdNUmR5OFd5cG9jRkdmLXAxWHhzV3NSeXV5SXVGTkF1U1pZZU1CUUJFVmpBYUFMRjhUeGRoejl0NU1kQkVtVm9ONmh5NktsSEZJTGhhMSI-IMKgIMKgIMKgwqA8L2ZvbnQ-PC9pPjwvYj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48YnI-PC9kaXY-PGJyPjxkaXYgY2xhc3M9ImdtYWlsX3F1b3RlIj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfYXR0ciI-RW0gdGVyLiwgMiBkZSBqdW4uIGRlIDIwMjYgw6BzIDE0OjQzLCBDb29yZGVuYcOnw6NvIGRlIEFsbW94YXJpZmFkbyBlIFBhdHJpbcO0bmlvIENhbXB1cyBVcnVndWFpYW5hICZsdDs8YSBocmVmPSJtYWlsdG86Y2FwLnVnQGlmZmFycm91cGlsaGEuZWR1LmJyIiB0YXJnZXQ9Il9ibGFuayI-Y2FwLnVnQGlmZmFycm91cGlsaGEuZWR1LmJyPC9hPiZndDsgZXNjcmV2ZXU6PGJyPjwvZGl2PjxibG9ja3F1b3RlIGNsYXNzPSJnbWFpbF9xdW90ZSIgc3R5bGU9Im1hcmdpbjowcHggMHB4IDBweCAwLjhleDtib3JkZXItbGVmdDoxcHggc29saWQgcmdiKDIwNCwyMDQsMjA0KTtwYWRkaW5nLWxlZnQ6MWV4Ij48ZGl2IGRpcj0ibHRyIj48cD7CoCBQcmV6YWRvcyw8L3A-PHA-wqAgRW5jYW1pbmhhbW9zLCBlbSBhbmV4bywgZG9jdW1lbnRvIHJlZmVyZW50ZSBhbyBQcm9jZXNzbyBBZG1pbmlzdHJhdGl2byBTYW5jaW9uYWRvciBpbnN0YXVyYWRvIGVtIGZhY2UgZGVzdGEgZW1wcmVzYSzCoDxiPmVtIHJhesOjbyBkbyBkZXNjdW1wcmltZW50byBjb250cmF0dWFsIGRlY29ycmVudGUgZGEgbsOjbyBlbnRyZWdhIGRvKHMpIG9iamV0byhzKSBjb25zdGFudGUocykgbm8gZW1wZW5obyAyMDIzTkUwMDAzMjQuPC9iPsKgPC9wPjxwPjxicj48L3A-PHA-PGJyPjwvcD48cD48YnI-PC9wPjxwPsKgIMKgQXRlbmNpb3NhbWVudGUsPC9wPjxwPsKgIMKgSXRhbWFyIFJpYmFjejxicj7CoCDCoFNldG9yIGRlIEFsbW94YXJpZmFkbyBlIFBhdHJpbcO0bmlvPGJyPsKgIMKgSUZGYXIg4oCTIENhbXB1cyBVcnVndWFpYW5hPC9wPjwvZGl2Pg0KPC9ibG9ja3F1b3RlPjwvZGl2Pg0KPC9ibG9ja3F1b3RlPjwvZGl2Pg0K"
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 5970,
+      "historyId": "813119",
+      "internalDate": "1780517651000"
+    },
+    {
+      "id": "19ead458b3c2cf6c",
+      "threadId": "19e896a8c3477557",
+      "labelIds": [
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Segue documentos enviados na época com pedido de reequilíbrio contratual. att. MP COMÉRCIO E SERVIÇO ME CNPJ.19.312.691/0001-97 Tel.: (27) 99982.3002 Em qua., 3 de jun. de 2026 às 17:14, Coordenação de",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/mixed",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "cap.ug@iffarroupilha.edu.br"
+          },
+          {
+            "name": "Received",
+            "value": "by 2002:a05:7023:a5c:20b0:138:1988:4a55 with SMTP id o28-n2csp1712090dlo;        Tue, 9 Jun 2026 09:44:38 -0700 (PDT)"
+          },
+          {
+            "name": "X-Received",
+            "value": "by 2002:a05:6808:1a13:b0:47a:ae7:b604 with SMTP id 5614622812f47-4868dda83famr12648993b6e.21.1781023476734;        Tue, 09 Jun 2026 09:44:36 -0700 (PDT)"
+          },
+          {
+            "name": "ARC-Seal",
+            "value": "i=2; a=rsa-sha256; t=1781023476; cv=pass;        d=google.com; s=arc-20240605;        b=itafNbBOPmKxowsQENUv7UYhMoyTcis6FSzxZUEZrMQ57w/o5kc5rd/ZWndAQ0kQQS         anzsAUvcOSj/GMhFRfgZnaWncEzFQ3b8jSQkD+kt/UQaqyHkcUX2fyCMV0AdQnks6yVI         BJBi0+fiqorxd6zk8DrguBrTCgLt9Ywbakwev5JQhUiODVtlvp8/jV7NvIglMR/K7lWy         plwry2v2NRjWPJufTDyateRut7PNDyJ4HpAXpW1GsH0vmMx6XxJG/GGj0cYaW/kLSbQz         B+DXpd2TRO3ULWYI97zXfRaaFpmkBg5UYKRvIJFWZLDw5QpWxbvqZ9F9IQIiQmC8EpeE         UtxQ=="
+          },
+          {
+            "name": "ARC-Message-Signature",
+            "value": "i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=to:subject:message-id:date:from:in-reply-to:references:mime-version         :dkim-signature;        bh=LoLfaelKzMdIJMIzNyUp9FWo3ST0zLJ5n1s+0BXSH6A=;        fh=lQvfDwkTUqwCGQTMvmfuUvRR7kBjqv8ybDTJQSRfHHA=;        b=eLaW3bXF+e4+clOTlLYRoCnmdJGcoMwnUI3oXPdtsFRb2OJo7+Eh7r8Ria2hym/O9A         MqmqcPP8bLoeob4imO3sfrbVanbPJ2TAYb9p4dmDDEq3W5OgNO6ItzNwV6aKAB/MVChA         R+s3aV8lZjAb9eNYdwnJj/NqmUzoQBSG1Eqjl3Kz510yVP+0UEJU1jUUVPiTZVj2Dg2H         OpMCqaPT6NJxiyzsjdFknnkBbvEmJrZjXUngNsirqbpiCnMk1hxKSp2ya3TT4I4Tz7Wh         1hSxlLiRNmA17OyIS4oH+iikkWzGd1D7NBPwyJUHM+s3JbTcqhgeI/ziwPSHsFglrrCR         mCgg==;        dara=google.com"
+          },
+          {
+            "name": "ARC-Authentication-Results",
+            "value": "i=2; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20251104 header.b=mpFR96B0;       arc=pass (i=1);       spf=pass (google.com: domain of mpcomercios@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=mpcomercios@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;       dara=fail header.i=@iffarroupilha.edu.br"
+          },
+          {
+            "name": "Return-Path",
+            "value": "<mpcomercios@gmail.com>"
+          },
+          {
+            "name": "Received",
+            "value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id 5614622812f47-4867c509587sor5175044b6e.2.2026.06.09.09.44.36        for <cap.ug@iffarroupilha.edu.br>        (Google Transport Security);        Tue, 09 Jun 2026 09:44:36 -0700 (PDT)"
+          },
+          {
+            "name": "Received-SPF",
+            "value": "pass (google.com: domain of mpcomercios@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+          },
+          {
+            "name": "Authentication-Results",
+            "value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20251104 header.b=mpFR96B0;       arc=pass (i=1);       spf=pass (google.com: domain of mpcomercios@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=mpcomercios@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;       dara=fail header.i=@iffarroupilha.edu.br"
+          },
+          {
+            "name": "ARC-Seal",
+            "value": "i=1; a=rsa-sha256; t=1781023476; cv=none;        d=google.com; s=arc-20240605;        b=HPR26EFVRjbP1xDABmOeGvIpcGLoKshQXoXXHX9A5mPQPluMcIp0swlxu3eXi3W6zT         1eZlYljLzv3U1NnBQA8cinPNYrX9FiDY+usiqkPoY3VoL/rRLJcz1sTa38yDgJ1vpBKe         VJXB+TjRG0sjQnQVcYSHCBJ5LuLeuYOxZlJdjsPYUwJoaTigBZd7Os5ShRGUqlGH72hP         sqZk5zPpCMZU6A18Bb1kWZ2XCsczVtdmZS/+4htZEljJ6RiuIO9Bq+kHpKhAXg/PxqSL         /FpA0YfydC01L0kAPXYYfuKMMttSXnh4nWvdaLamh5k7zV+W9EFvANVHKwF3qAigp2gF         CWJQ=="
+          },
+          {
+            "name": "ARC-Message-Signature",
+            "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=to:subject:message-id:date:from:in-reply-to:references:mime-version         :dkim-signature;        bh=LoLfaelKzMdIJMIzNyUp9FWo3ST0zLJ5n1s+0BXSH6A=;        fh=lQvfDwkTUqwCGQTMvmfuUvRR7kBjqv8ybDTJQSRfHHA=;        b=OnWXfdwfis/9SSp70CHtuiko6QqEgyZeRMW91dsSwzLQoX3keUL2ayIlXrCsX79T7s         fFFkUqP5+uUk47DxO0DfvVXqlxy6yAEqHWzF2YgZV925C39KB9/nMmVm0H7ksvBhgzvm         Z/WLEQxuUXyNfABevJSDcxuFWhJJweTdm6tA2Re/Q7lZU9I4PfZAVNupd3Ci0S09YwTg         aVbe2L7eduIEqkffigTfcbB00rF/drHZF/wj84wuPv2HHItk+OvtMQ7hx21Yp8gTiygN         O/WVn/XEdzXpMNl1jnFBpT+aVP0+gKRQx3uNSMZgwBFoMqH3OaXUvOxQBk1Jm1OdWasJ         qsXA==;        darn=iffarroupilha.edu.br"
+          },
+          {
+            "name": "ARC-Authentication-Results",
+            "value": "i=1; mx.google.com; arc=none"
+          },
+          {
+            "name": "DKIM-Signature",
+            "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20251104; t=1781023476; x=1781628276; darn=iffarroupilha.edu.br;        h=to:subject:message-id:date:from:in-reply-to:references:mime-version         :from:to:cc:subject:date:message-id:reply-to;        bh=LoLfaelKzMdIJMIzNyUp9FWo3ST0zLJ5n1s+0BXSH6A=;        b=mpFR96B0IpSRpgFoHXBMnkUgqFvh9788PqJQkBUMvdwHd/OcPKka1DUUedhvRDnz0q         3t/kWs2kqMh/FUxs1yP94W6c0LygE77zLq+gx26weQJZurNUPM7yITKL5MsHqpcu2jur         LAbVchsdwoGqVfnnMUIQU7ti+4yadG1b/8/CCmq4tgtVV3e7g9A0lXdU/Y7FYYcYcxam         Uumhy33SQe7Cs0NR6xb0VsI8bm9D9TIDS8xQ+SW4W7QjUA1/FOxM0hGrgs4dPM3D64Ay         eoVR5cb20yfwhVEKlpQ6Hcqq0834pyrZEBRl565VCbYvFeZ3LbXmPI9cTrjAqhoQpaBz         Eexg=="
+          },
+          {
+            "name": "X-Google-DKIM-Signature",
+            "value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20251104; t=1781023476; x=1781628276;        h=to:subject:message-id:date:from:in-reply-to:references:mime-version         :x-gm-gg:x-gm-message-state:from:to:cc:subject:date:message-id         :reply-to;        bh=LoLfaelKzMdIJMIzNyUp9FWo3ST0zLJ5n1s+0BXSH6A=;        b=TM3rJKgqFtd8iUP9sOoHHZTPAF7vP6IU4uipZhEGKXAnin1P1BugjqXPsC0QOZy90/         xRw75AtudD4lWWx0bK0tV54W1i9NDcuyfnXBiNlqF/fQfIYA/tubOUFNOc/l6QX/wKD5         fFGFqRVkCgey43wbhd1Na81qIL0dKSefliIi4uVPCGBCm3XEHvQmpklTop2vd0Q5yDSm         oUhiK4XLjedJ38iQxC1ycQ9CObx0ue0hIk+TMjpBAhQpzgOY6xF/jxUEngicl+GYlfks         hWOGlBn0bJboriAJZa6D86kZEd6wC/ohojkYNsJfYQFoXZk995fSDoK0ofcOgZ3Yyi1Y         7/JQ=="
+          },
+          {
+            "name": "X-Gm-Message-State",
+            "value": "AOJu0YzDyivW8cPeKcP6pPL1KYvNRgwlpzzwq3LWP7cUyirMyHviXm11 GIokpIhIZWkzMqC31P5bxHN5WzOB56kKQKnAQZGFgCIh5rSyAQryRGF7+Xc+48RDMxztp/Iyvym QUZ/vO4qtv0GN6gpcVm7bKInBAWaKsCRERg=="
+          },
+          {
+            "name": "X-Gm-Gg",
+            "value": "Acq92OHrXUK4508kPQn9tReOEws2hQZETw3GiUzcmXZ2ER7p2CxRK5ePcyZVl/eObcq 0jjeDhl+E8o2LBWewTKT9g9YKDz7EO7X5hlaB9yEpDJT9j/VJDUjwziUw4aGA35fqbte1O3UadG FYjFnTyO/55+gf0+DgHUUB/WuFtXSwR44Pamohbv3LOOMmlLAa88zgKh6Rp2dMeecrPGGMcCsAV Yvoz1riNNX8OZseObWSNq9vV/iuPyEsMNF3J9WJeLX8dl8ozwf77Hh4kNYKHcMWzNKocIxNmGWM ejy+gMD2RaIwhfS31Zf/CsVHj3xO8xIdcBp/kgAvoEZXWFxk5cg="
+          },
+          {
+            "name": "X-Received",
+            "value": "by 2002:a05:6820:26c:b0:69d:9be6:860e with SMTP id 006d021491bc7-69e68c58c87mr9998760eaf.43.1781023475198; Tue, 09 Jun 2026 09:44:35 -0700 (PDT)"
+          },
+          {
+            "name": "MIME-Version",
+            "value": "1.0"
+          },
+          {
+            "name": "References",
+            "value": "<CAA3VpshrDK=ipt6HY5c0MTMk_th0UgL98dgQcBVO2u7Q7_hfQg@mail.gmail.com> <CAA8h5ddCWcE4nEFNaBfbjOJjQ9V5Cg+KkPcK65GqmTweJTfquw@mail.gmail.com> <CAA3VpsibVwpuiiEMqV1q3co3+ZT5NvSAOF_o0qyCA=WWoeVNhw@mail.gmail.com>"
+          },
+          {
+            "name": "In-Reply-To",
+            "value": "<CAA3VpsibVwpuiiEMqV1q3co3+ZT5NvSAOF_o0qyCA=WWoeVNhw@mail.gmail.com>"
+          },
+          {
+            "name": "From",
+            "value": "Mpcomercio Servicos <mpcomercios@gmail.com>"
+          },
+          {
+            "name": "Date",
+            "value": "Tue, 9 Jun 2026 13:44:23 -0300"
+          },
+          {
+            "name": "X-Gm-Features",
+            "value": "AVVi8Cft6DnswrDcy04WDZRTqFs7pn7H25eFh9S4ULIktkHKxi8vh-_krq2B7CI"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<CAA8h5dc9_J8z8hSf1gKjwFgOT33D8Vn+f2yFAkiGeiqRVsgxAA@mail.gmail.com>"
+          },
+          {
+            "name": "Subject",
+            "value": "Re: Encaminhamento de Documento – Processo Administrativo Sancionador – Empenho 2023NE000324"
+          },
+          {
+            "name": "To",
+            "value": "\"Coordenação de Almoxarifado e Patrimônio Campus Uruguaiana\" <cap.ug@iffarroupilha.edu.br>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/mixed; boundary=\"0000000000009423210653d4d793\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "multipart/alternative",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "multipart/alternative; boundary=\"00000000000094231f0653d4d791\""
+              }
+            ],
+            "body": {
+              "size": 0
+            },
+            "parts": [
+              {
+                "partId": "0.0",
+                "mimeType": "text/plain",
+                "filename": "",
+                "headers": [
+                  {
+                    "name": "Content-Type",
+                    "value": "text/plain; charset=\"UTF-8\""
+                  },
+                  {
+                    "name": "Content-Transfer-Encoding",
+                    "value": "quoted-printable"
+                  }
+                ],
+                "body": {
+                  "size": 1742,
+                  "data": "U2VndWUgZG9jdW1lbnRvcyBlbnZpYWRvcyBuYSDDqXBvY2EgY29tIHBlZGlkbyBkZSByZWVxdWlsw61icmlvIGNvbnRyYXR1YWwuDQoNCmF0dC4NCg0KDQoqTVAgQ09Nw4lSQ0lPIEUgU0VSVknDh08gTUUqDQoqQ05QSi4xOS4zMTIuNjkxLzAwMDEtOTcqDQoqVGVsLjogKDI3KSA5OTk4Mi4zMDAyKg0KDQoNCg0KRW0gcXVhLiwgMyBkZSBqdW4uIGRlIDIwMjYgw6BzIDE3OjE0LCBDb29yZGVuYcOnw6NvIGRlIEFsbW94YXJpZmFkbyBlDQpQYXRyaW3DtG5pbyBDYW1wdXMgVXJ1Z3VhaWFuYSA8Y2FwLnVnQGlmZmFycm91cGlsaGEuZWR1LmJyPiBlc2NyZXZldToNCg0KPiAgIFBhcmEgZmlucyBkZSBqdWxnYW1lbnRvIGRhIGRlc2NvbmZvcm1pZGFkZSBuYSBlbnRyZWdhIGRvIGVtcGVuaG8NCj4gc3VwcmFtZW5jaW9uYWRvLCBzb2xpY2l0YW1vcyBvIGVudmlvIGRvcyBkb2N1bWVudG9zIG1lbmNpb25hZG9zIHBlbGENCj4gZW1wcmVzYS4NCj4NCj4NCj4NCj4gICAgQXRlbmNpb3NhbWVudGUsDQo-DQo-ICAgIEl0YW1hciBSaWJhY3oNCj4gICAgU2V0b3IgZGUgQWxtb3hhcmlmYWRvIGUgUGF0cmltw7RuaW8NCj4gICAgSUZGYXIg4oCTIENhbXB1cyBVcnVndWFpYW5hDQo-DQo-IEVtIHF1YS4sIDMgZGUganVuLiBkZSAyMDI2IMOgcyAwOToyNSwgTXBjb21lcmNpbyBTZXJ2aWNvcyA8DQo-IG1wY29tZXJjaW9zQGdtYWlsLmNvbT4gZXNjcmV2ZXU6DQo-DQo-PiBQcmV6YWRvLA0KPj4NCj4-IEluZm9ybWFtb3MgcXVlIG5hIMOpcG9jYSBvY29ycmVyYW0gdsOhcmlhcyBzaXR1YcOnw7VlcyBqw6EgcmVsYXRhZGFzLCBwb3INCj4-IGV4ZW1wbG8sIHNlY2EgZW0gTWFuYXVzIHF1ZSBpbXBhY3RvdSBuYSBpbmTDunN0cmlhIGRlIGFyIGNvbmRpY2lvbmFkbywgY3VqbywNCj4-IHRvZGFzIGFzIGluZMO6c3RyaWFzIGZpY2FtIGxvY2FsaXphZGFzIG5hIHJlZ2nDo28uDQo-Pg0KPj4gSW5mZWxpem1lbnRlLCBuw6NvIHRpbmhhIGFwYXJlbGhvcyBkaXNwb27DrXZlaXMsIGNvbmZvcm1lIGRvY3VtZW50b3MNCj4-IGVudmlhZG8gYSDDqXBvY2EuDQo-Pg0KPj4gKk1QIENPTcOJUkNJTyBFIFNFUlZJw4dPIE1FKg0KPj4gKkNOUEouMTkuMzEyLjY5MS8wMDAxLTk3Kg0KPj4gKlRlbC46ICgyNykgOTk5ODIuMzAwMioNCj4-DQo-Pg0KPj4NCj4-IEVtIHRlci4sIDIgZGUganVuLiBkZSAyMDI2IMOgcyAxNDo0MywgQ29vcmRlbmHDp8OjbyBkZSBBbG1veGFyaWZhZG8gZQ0KPj4gUGF0cmltw7RuaW8gQ2FtcHVzIFVydWd1YWlhbmEgPGNhcC51Z0BpZmZhcnJvdXBpbGhhLmVkdS5icj4gZXNjcmV2ZXU6DQo-Pg0KPj4-ICAgUHJlemFkb3MsDQo-Pj4NCj4-PiAgIEVuY2FtaW5oYW1vcywgZW0gYW5leG8sIGRvY3VtZW50byByZWZlcmVudGUgYW8gUHJvY2Vzc28gQWRtaW5pc3RyYXRpdm8NCj4-PiBTYW5jaW9uYWRvciBpbnN0YXVyYWRvIGVtIGZhY2UgZGVzdGEgZW1wcmVzYSwgKmVtIHJhesOjbyBkbw0KPj4-IGRlc2N1bXByaW1lbnRvIGNvbnRyYXR1YWwgZGVjb3JyZW50ZSBkYSBuw6NvIGVudHJlZ2EgZG8ocykgb2JqZXRvKHMpDQo-Pj4gY29uc3RhbnRlKHMpIG5vIGVtcGVuaG8gMjAyM05FMDAwMzI0LioNCj4-Pg0KPj4-DQo-Pj4NCj4-Pg0KPj4-ICAgIEF0ZW5jaW9zYW1lbnRlLA0KPj4-DQo-Pj4gICAgSXRhbWFyIFJpYmFjeg0KPj4-ICAgIFNldG9yIGRlIEFsbW94YXJpZmFkbyBlIFBhdHJpbcO0bmlvDQo-Pj4gICAgSUZGYXIg4oCTIENhbXB1cyBVcnVndWFpYW5hDQo-Pj4NCj4-DQo="
+                }
+              },
+              {
+                "partId": "0.1",
+                "mimeType": "text/html",
+                "filename": "",
+                "headers": [
+                  {
+                    "name": "Content-Type",
+                    "value": "text/html; charset=\"UTF-8\""
+                  },
+                  {
+                    "name": "Content-Transfer-Encoding",
+                    "value": "quoted-printable"
+                  }
+                ],
+                "body": {
+                  "size": 4609,
+                  "data": "PGRpdiBkaXI9Imx0ciI-PGRpdj5TZWd1ZSBkb2N1bWVudG9zIGVudmlhZG9zIG5hIMOpcG9jYcKgY29tIHBlZGlkbyBkZSByZWVxdWlsw61icmlvIGNvbnRyYXR1YWwuPC9kaXY-PGRpdj48YnI-PC9kaXY-PGRpdj5hdHQuPC9kaXY-PGRpdj48YnI-PC9kaXY-PGRpdj48YnI-PC9kaXY-PGRpdj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfc2lnbmF0dXJlIiBkYXRhLXNtYXJ0bWFpbD0iZ21haWxfc2lnbmF0dXJlIj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXY-PGRpdiBkaXI9Imx0ciI-PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXY-PGRpdiBkaXI9Imx0ciI-PGRpdiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LXNpemU6MTIuOHB4Ij48Yj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI-PC9mb250PjwvYj48L2Rpdj48ZGl2IHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDApO2ZvbnQtc2l6ZToxMi44cHgiPjxiPjxmb250IGZhY2U9ImFyaWFsLCBzYW5zLXNlcmlmIj5NUCBDT03DiVJDSU8gRSBTRVJWScOHTyBNRTwvZm9udD48L2I-PC9kaXY-PGRpdiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LXNpemU6MTIuOHB4Ij48Yj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI-Q05QSi4xOS4zMTIuNjkxLzAwMDEtOTc8L2ZvbnQ-PC9iPjwvZGl2PjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPlRlbC46ICgyNykgOTk5ODIuMzAwMjwvZm9udD48L2I-PC9kaXY-PGRpdiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LXNpemU6MTIuOHB4Ij48Yj48aT48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI-wqA8aW1nIHdpZHRoPSI4NCIgaGVpZ2h0PSI5NiIgc3JjPSJodHRwczovL2NpMy5nb29nbGV1c2VyY29udGVudC5jb20vbWFpbC1zaWcvQUlvcks0d01SZHk4V3lwb2NGR2YtcDFYeHNXc1J5dXlJdUZOQXVTWlllTUJRQkVWakFhQUxGOFR4ZGh6OXQ1TWRCRW1Wb042aHk2S2xIRklMaGExIj4gwqAgwqAgwqDCoDwvZm9udD48L2k-PC9iPjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2Pjxicj48L2Rpdj48YnI-PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUgZ21haWxfcXVvdGVfY29udGFpbmVyIj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfYXR0ciI-RW0gcXVhLiwgMyBkZSBqdW4uIGRlIDIwMjYgw6BzIDE3OjE0LCBDb29yZGVuYcOnw6NvIGRlIEFsbW94YXJpZmFkbyBlIFBhdHJpbcO0bmlvIENhbXB1cyBVcnVndWFpYW5hICZsdDs8YSBocmVmPSJtYWlsdG86Y2FwLnVnQGlmZmFycm91cGlsaGEuZWR1LmJyIj5jYXAudWdAaWZmYXJyb3VwaWxoYS5lZHUuYnI8L2E-Jmd0OyBlc2NyZXZldTo8YnI-PC9kaXY-PGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2luOjBweCAwcHggMHB4IDAuOGV4O2JvcmRlci1sZWZ0OjFweCBzb2xpZCByZ2IoMjA0LDIwNCwyMDQpO3BhZGRpbmctbGVmdDoxZXgiPjxkaXYgZGlyPSJsdHIiPsKgIFBhcmEgZmlucyBkZSBqdWxnYW1lbnRvIGRhIGRlc2NvbmZvcm1pZGFkZSBuYSBlbnRyZWdhIGRvIGVtcGVuaG8gc3VwcmFtZW5jaW9uYWRvLCBzb2xpY2l0YW1vcyBvIGVudmlvIGRvcyBkb2N1bWVudG9zIG1lbmNpb25hZG9zIHBlbGEgZW1wcmVzYS7CoMKgPGRpdj48YnI-PC9kaXY-PGRpdj48YnI-PC9kaXY-PGRpdj48YnI-PC9kaXY-PGRpdj48cD7CoCDCoEF0ZW5jaW9zYW1lbnRlLDwvcD48cD7CoCDCoEl0YW1hciBSaWJhY3o8YnI-wqAgwqBTZXRvciBkZSBBbG1veGFyaWZhZG8gZSBQYXRyaW3DtG5pbzxicj7CoCDCoElGRmFyIOKAkyBDYW1wdXMgVXJ1Z3VhaWFuYTwvcD48L2Rpdj48L2Rpdj48YnI-PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPjxkaXYgZGlyPSJsdHIiIGNsYXNzPSJnbWFpbF9hdHRyIj5FbSBxdWEuLCAzIGRlIGp1bi4gZGUgMjAyNiDDoHMgMDk6MjUsIE1wY29tZXJjaW8gU2Vydmljb3MgJmx0OzxhIGhyZWY9Im1haWx0bzptcGNvbWVyY2lvc0BnbWFpbC5jb20iIHRhcmdldD0iX2JsYW5rIj5tcGNvbWVyY2lvc0BnbWFpbC5jb208L2E-Jmd0OyBlc2NyZXZldTo8YnI-PC9kaXY-PGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2luOjBweCAwcHggMHB4IDAuOGV4O2JvcmRlci1sZWZ0OjFweCBzb2xpZCByZ2IoMjA0LDIwNCwyMDQpO3BhZGRpbmctbGVmdDoxZXgiPjxkaXYgZGlyPSJsdHIiPjxkaXY-UHJlemFkbyw8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PkluZm9ybWFtb3MgcXVlIG5hIMOpcG9jYSBvY29ycmVyYW0gdsOhcmlhc8Kgc2l0dWHDp8O1ZXMgasOhIHJlbGF0YWRhcywgcG9yIGV4ZW1wbG8sIHNlY2EgZW0gTWFuYXVzIHF1ZSBpbXBhY3RvdSBuYSBpbmTDunN0cmlhIGRlIGFyIGNvbmRpY2lvbmFkbywgY3VqbywgdG9kYXMgYXMgaW5kw7pzdHJpYXPCoGZpY2FtIGxvY2FsaXphZGFzIG5hIHJlZ2nDo28uPC9kaXY-PGRpdj48YnI-PC9kaXY-PGRpdj5JbmZlbGl6bWVudGUsIG7Do28gdGluaGEgYXBhcmVsaG9zIGRpc3BvbsOtdmVpcywgY29uZm9ybWUgZG9jdW1lbnRvcyBlbnZpYWRvIGEgw6lwb2NhLjwvZGl2PjxkaXY-wqA8L2Rpdj48ZGl2PjxkaXYgZGlyPSJsdHIiIGNsYXNzPSJnbWFpbF9zaWduYXR1cmUiPjxkaXYgZGlyPSJsdHIiPjxkaXY-PGRpdiBkaXI9Imx0ciI-PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXY-PGRpdiBkaXI9Imx0ciI-PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2IHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDApO2ZvbnQtc2l6ZToxMi44cHgiPjxiPjxmb250IGZhY2U9ImFyaWFsLCBzYW5zLXNlcmlmIj48L2ZvbnQ-PC9iPjwvZGl2PjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPk1QIENPTcOJUkNJTyBFIFNFUlZJw4dPIE1FPC9mb250PjwvYj48L2Rpdj48ZGl2IHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDApO2ZvbnQtc2l6ZToxMi44cHgiPjxiPjxmb250IGZhY2U9ImFyaWFsLCBzYW5zLXNlcmlmIj5DTlBKLjE5LjMxMi42OTEvMDAwMS05NzwvZm9udD48L2I-PC9kaXY-PGRpdiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LXNpemU6MTIuOHB4Ij48Yj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI-VGVsLjogKDI3KSA5OTk4Mi4zMDAyPC9mb250PjwvYj48L2Rpdj48ZGl2IHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDApO2ZvbnQtc2l6ZToxMi44cHgiPjxiPjxpPjxmb250IGZhY2U9ImFyaWFsLCBzYW5zLXNlcmlmIj7CoDxpbWcgd2lkdGg9Ijg0IiBoZWlnaHQ9Ijk2IiBzcmM9Imh0dHBzOi8vY2kzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9tYWlsLXNpZy9BSW9ySzR3TVJkeThXeXBvY0ZHZi1wMVh4c1dzUnl1eUl1Rk5BdVNaWWVNQlFCRVZqQWFBTEY4VHhkaHo5dDVNZEJFbVZvTjZoeTZLbEhGSUxoYTEiPiDCoCDCoCDCoMKgPC9mb250PjwvaT48L2I-PC9kaXY-PC9kaXY-PC9kaXY-PC9kaXY-PC9kaXY-PC9kaXY-PC9kaXY-PC9kaXY-PC9kaXY-PC9kaXY-PC9kaXY-PC9kaXY-PC9kaXY-PC9kaXY-PGJyPjwvZGl2Pjxicj48ZGl2IGNsYXNzPSJnbWFpbF9xdW90ZSI-PGRpdiBkaXI9Imx0ciIgY2xhc3M9ImdtYWlsX2F0dHIiPkVtIHRlci4sIDIgZGUganVuLiBkZSAyMDI2IMOgcyAxNDo0MywgQ29vcmRlbmHDp8OjbyBkZSBBbG1veGFyaWZhZG8gZSBQYXRyaW3DtG5pbyBDYW1wdXMgVXJ1Z3VhaWFuYSAmbHQ7PGEgaHJlZj0ibWFpbHRvOmNhcC51Z0BpZmZhcnJvdXBpbGhhLmVkdS5iciIgdGFyZ2V0PSJfYmxhbmsiPmNhcC51Z0BpZmZhcnJvdXBpbGhhLmVkdS5icjwvYT4mZ3Q7IGVzY3JldmV1Ojxicj48L2Rpdj48YmxvY2txdW90ZSBjbGFzcz0iZ21haWxfcXVvdGUiIHN0eWxlPSJtYXJnaW46MHB4IDBweCAwcHggMC44ZXg7Ym9yZGVyLWxlZnQ6MXB4IHNvbGlkIHJnYigyMDQsMjA0LDIwNCk7cGFkZGluZy1sZWZ0OjFleCI-PGRpdiBkaXI9Imx0ciI-PHA-wqAgUHJlemFkb3MsPC9wPjxwPsKgIEVuY2FtaW5oYW1vcywgZW0gYW5leG8sIGRvY3VtZW50byByZWZlcmVudGUgYW8gUHJvY2Vzc28gQWRtaW5pc3RyYXRpdm8gU2FuY2lvbmFkb3IgaW5zdGF1cmFkbyBlbSBmYWNlIGRlc3RhIGVtcHJlc2EswqA8Yj5lbSByYXrDo28gZG8gZGVzY3VtcHJpbWVudG8gY29udHJhdHVhbCBkZWNvcnJlbnRlIGRhIG7Do28gZW50cmVnYSBkbyhzKSBvYmpldG8ocykgY29uc3RhbnRlKHMpIG5vIGVtcGVuaG8gMjAyM05FMDAwMzI0LjwvYj7CoDwvcD48cD48YnI-PC9wPjxwPjxicj48L3A-PHA-PGJyPjwvcD48cD7CoCDCoEF0ZW5jaW9zYW1lbnRlLDwvcD48cD7CoCDCoEl0YW1hciBSaWJhY3o8YnI-wqAgwqBTZXRvciBkZSBBbG1veGFyaWZhZG8gZSBQYXRyaW3DtG5pbzxicj7CoCDCoElGRmFyIOKAkyBDYW1wdXMgVXJ1Z3VhaWFuYTwvcD48L2Rpdj4NCjwvYmxvY2txdW90ZT48L2Rpdj4NCjwvYmxvY2txdW90ZT48L2Rpdj4NCjwvYmxvY2txdW90ZT48L2Rpdj4NCg=="
+                }
+              }
+            ]
+          },
+          {
+            "partId": "1",
+            "mimeType": "application/pdf",
+            "filename": "Custo somado.pdf",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "application/pdf; name=\"Custo somado.pdf\""
+              },
+              {
+                "name": "Content-Disposition",
+                "value": "attachment; filename=\"Custo somado.pdf\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              },
+              {
+                "name": "Content-ID",
+                "value": "<f_mq6vdqna0>"
+              },
+              {
+                "name": "X-Attachment-Id",
+                "value": "f_mq6vdqna0"
+              }
+            ],
+            "body": {
+              "attachmentId": "ANGjdJ_fzXXvRKF0e_TxyeI_JlskOxnrYk3LFmXQT7_qHvbMAa-velYMQ6rRM19eYbuZ2cby3yumzLOXXDPw1sq1gVWpdsSzWKLvVcsJdokzjKB4riM0WTC3S5AtnVFuM6iQJd1fUe2F5uCTEiPWyXhJ60Qd7SJ-kDvI4xv_JzqKU9N9FhlJUw9lOkiueUntT4s4R6XhyA87oYJ44XlG3jOaI2onQUYd4FXYwPbF56d7eafr9q6Nd63GkX4B8e0aQzJHXtIVGsli-7HDoq95TsfnqypYh3xod_KtCujcGOcho84C_f809F3z4LbE0W_5KoFdE1jg-RSsVI6PuI9JakEWZ6_kKNuzMQ9uWf4M0Z66qhf8unn0pfKQiAo9wyekk1vr1kgfGlxM_Qd34CSE",
+              "size": 107769
+            }
+          },
+          {
+            "partId": "2",
+            "mimeType": "application/pdf",
+            "filename": "CLIMATIZAÇÃO Abril 24 - sp (1).pdf",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "application/pdf; name=\"CLIMATIZAÇÃO Abril 24 - sp (1).pdf\""
+              },
+              {
+                "name": "Content-Disposition",
+                "value": "attachment; filename=\"CLIMATIZAÇÃO Abril 24 - sp (1).pdf\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              },
+              {
+                "name": "Content-ID",
+                "value": "<f_mq6vdqo61>"
+              },
+              {
+                "name": "X-Attachment-Id",
+                "value": "f_mq6vdqo61"
+              }
+            ],
+            "body": {
+              "attachmentId": "ANGjdJ-JWcc6NZyPIPDDR5tEzdHnVzozbraKviQxvXjWxalsnWXYojtkqGiu5BcGCiJl3-H7i-bS3d0i3uWCRdBmjPr6YDTVav5m6k3auhMuiJF8XyChkgWndPVd7PvIWX9Hzviv1hrr3eSubV3dqGJ_gk1x3MZQ7apaJQZbUEMJclEcRuD1hDj3ig3w8cHFukMX3PEGsT3yMgo93-ZhQO2EMRcMCzYZv-PdWoK8YEFh4NccOnHJSGeoEFXK0NPXNEAg2WpZB6VPa62fCEcFGohXcHk3WdwBievhnXnBepavCu2SbQ4pFTb42yrUlCQj7D8Tm1vSKLg5Fc6keS9NvyANJvKFQHS9MVoQG5IhZxPDi06jEV7LNStX_ogVrb_AdATK4W6xOffm8DJYJJ2B7RH_8dAKul03Ofs0CIprJw",
+              "size": 121564
+            }
+          },
+          {
+            "partId": "3",
+            "mimeType": "application/pdf",
+            "filename": "REALINHAMENTO_FARROUPILHA_assinado-1.pdf",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "application/pdf; name=\"REALINHAMENTO_FARROUPILHA_assinado-1.pdf\""
+              },
+              {
+                "name": "Content-Disposition",
+                "value": "attachment; filename=\"REALINHAMENTO_FARROUPILHA_assinado-1.pdf\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              },
+              {
+                "name": "Content-ID",
+                "value": "<f_mq6vdqos3>"
+              },
+              {
+                "name": "X-Attachment-Id",
+                "value": "f_mq6vdqos3"
+              }
+            ],
+            "body": {
+              "attachmentId": "ANGjdJ_QZ6ThKfwa_Yd4u_5Ea8hLQ5fM_ewEOnIVPXN5ESiP9-vMXn3n4dRRg9DplHJM7-hvYfid-nxiEaYuktABfIqGajAKSa2aNBhs_8JZ5kVq3hX9E7BgcxfFvxEBEnhvmbD9z8JiBJD-KpBzwyLwM5IGJjgYM5iSxfzvI2V1RYzfLXOxCys8L5WRKhJOanPLRN0QAC-_BO73hU4dT6DmtpV6M0rC8qXjg6Sv3-FUrA-Pdt3NeCPvZD9-_PuXbOzh6QJpXeUZCOnsdIph31Du-B8JLwgZI-Kw8zO-btBg7zn_M5LGqEvZfM95B5VnDRDHKSO8lMUA4tzp1tqFh-CjPBmK_Xl47ZWTGpGcojzC-AY75i5zrKUC_SrAY2zDE9yS7aelxv_KIpVtYsQR3sOHCR3s010JEQpe7aqPwA",
+              "size": 199289
+            }
+          },
+          {
+            "partId": "4",
+            "mimeType": "application/pdf",
+            "filename": "Vendas de aparelhos de ar-condicionado quase dobram em relação a 2023 _ Jornal Nacional _ G1 (1).pdf",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "application/pdf; name=\"Vendas de aparelhos de ar-condicionado quase dobram em relação a 2023 _ Jornal Nacional _ G1 (1).pdf\""
+              },
+              {
+                "name": "Content-Disposition",
+                "value": "attachment; filename=\"Vendas de aparelhos de ar-condicionado quase dobram em relação a 2023 _ Jornal Nacional _ G1 (1).pdf\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              },
+              {
+                "name": "Content-ID",
+                "value": "<f_mq6vdqod2>"
+              },
+              {
+                "name": "X-Attachment-Id",
+                "value": "f_mq6vdqod2"
+              }
+            ],
+            "body": {
+              "attachmentId": "ANGjdJ9xDdMREiF5a5aXJed2B0ZLw4bGv02Qg1mmQC-VPOL5zgX_mRC-F0zvT7HQylAMvFbWIj0tSfXwa8HYgCXYegZds2_dzQ_5RZmCwDUBJ6ALkwWjzwG_e2RZeUgfkEx9-kneOG8puJGjRllh7acpY0Xc4JvVgBidh0_eYqpl1xsc_vrLR52GiFsFf4lyUPlq7eGLeZtvlfDRj9iFlZohbjy3EC3LE6DvgQ0hEFwAy1V6EDCTFDagDf1RI2897vm-HfdLUwBYY6MtnhAwpMqfrNkLrUWDf1BzO3y6tRc7jaEZdZDDetAoUfw7nC9a0LaQmVEQDybYVUQdzxE4SpsTNYtoPiXHHRj7OlRWKbYRhJryNK7wh3BqcIDyC1bwW7g1ocxeOcFEE4os2O4uNhMqwnFjrlGg2WuHaGirNA",
+              "size": 2276188
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 3717700,
+      "historyId": "813119",
+      "internalDate": "1781023463000"
+    },
+    {
+      "id": "19eade76e2dae431",
+      "threadId": "19e896a8c3477557",
+      "labelIds": [
+        "SENT"
+      ],
+      "snippet": "Prezado, Confirmamos o recebimento dos documentos encaminhados pela empresa referentes ao pedido de reequilíbrio contratual. Informamos que a documentação será analisada pela Administração e",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "MIME-Version",
+            "value": "1.0"
+          },
+          {
+            "name": "Date",
+            "value": "Tue, 9 Jun 2026 16:40:42 -0300"
+          },
+          {
+            "name": "References",
+            "value": "<CAA3VpshrDK=ipt6HY5c0MTMk_th0UgL98dgQcBVO2u7Q7_hfQg@mail.gmail.com> <CAA8h5ddCWcE4nEFNaBfbjOJjQ9V5Cg+KkPcK65GqmTweJTfquw@mail.gmail.com> <CAA3VpsibVwpuiiEMqV1q3co3+ZT5NvSAOF_o0qyCA=WWoeVNhw@mail.gmail.com> <CAA8h5dc9_J8z8hSf1gKjwFgOT33D8Vn+f2yFAkiGeiqRVsgxAA@mail.gmail.com>"
+          },
+          {
+            "name": "In-Reply-To",
+            "value": "<CAA8h5dc9_J8z8hSf1gKjwFgOT33D8Vn+f2yFAkiGeiqRVsgxAA@mail.gmail.com>"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<CAA3VpsiQyzQ0EKSurMQ0R5ijcS25D13+oXtOb1oeZizyF3LH4w@mail.gmail.com>"
+          },
+          {
+            "name": "Subject",
+            "value": "Re: Encaminhamento de Documento – Processo Administrativo Sancionador – Empenho 2023NE000324"
+          },
+          {
+            "name": "From",
+            "value": "\"Coordenação de Almoxarifado e Patrimônio Campus Uruguaiana\" <cap.ug@iffarroupilha.edu.br>"
+          },
+          {
+            "name": "To",
+            "value": "Mpcomercio Servicos <mpcomercios@gmail.com>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"0000000000000a220d0653d7502f\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "quoted-printable"
+              }
+            ],
+            "body": {
+              "size": 2417,
+              "data": "IFByZXphZG8sDQoNCiBDb25maXJtYW1vcyBvIHJlY2ViaW1lbnRvIGRvcyBkb2N1bWVudG9zIGVuY2FtaW5oYWRvcyBwZWxhIGVtcHJlc2ENCnJlZmVyZW50ZXMgYW8gcGVkaWRvIGRlIHJlZXF1aWzDrWJyaW8gY29udHJhdHVhbC4NCg0KIEluZm9ybWFtb3MgcXVlIGEgZG9jdW1lbnRhw6fDo28gc2Vyw6EgYW5hbGlzYWRhIHBlbGEgQWRtaW5pc3RyYcOnw6NvIGUNCmNvbnNpZGVyYWRhIG5vIMOibWJpdG8gZG8gUHJvY2Vzc28gQWRtaW5pc3RyYXRpdm8gU2FuY2lvbmFkb3IgZW0gY3Vyc28uIENhc28NCmhhamEgbmVjZXNzaWRhZGUgZGUgZXNjbGFyZWNpbWVudG9zIG91IGNvbXBsZW1lbnRhw6fDo28gZGUgaW5mb3JtYcOnw7VlcywNCmVudHJhcmVtb3MgZW0gY29udGF0byBvcG9ydHVuYW1lbnRlLg0KDQogQXRlbmNpb3NhbWVudGUsDQoNCiBJdGFtYXIgUmliYWN6DQogU2V0b3IgZGUgQWxtb3hhcmlmYWRvIGUgUGF0cmltw7RuaW8NCiBJRkZhciDigJMgQ2FtcHVzIFVydWd1YWlhbmENCg0KRW0gdGVyLiwgOSBkZSBqdW4uIGRlIDIwMjYgw6BzIDEzOjQ0LCBNcGNvbWVyY2lvIFNlcnZpY29zIDwNCm1wY29tZXJjaW9zQGdtYWlsLmNvbT4gZXNjcmV2ZXU6DQoNCj4gU2VndWUgZG9jdW1lbnRvcyBlbnZpYWRvcyBuYSDDqXBvY2EgY29tIHBlZGlkbyBkZSByZWVxdWlsw61icmlvIGNvbnRyYXR1YWwuDQo-DQo-IGF0dC4NCj4NCj4NCj4gKk1QIENPTcOJUkNJTyBFIFNFUlZJw4dPIE1FKg0KPiAqQ05QSi4xOS4zMTIuNjkxLzAwMDEtOTcqDQo-ICpUZWwuOiAoMjcpIDk5OTgyLjMwMDIqDQo-DQo-DQo-DQo-IEVtIHF1YS4sIDMgZGUganVuLiBkZSAyMDI2IMOgcyAxNzoxNCwgQ29vcmRlbmHDp8OjbyBkZSBBbG1veGFyaWZhZG8gZQ0KPiBQYXRyaW3DtG5pbyBDYW1wdXMgVXJ1Z3VhaWFuYSA8Y2FwLnVnQGlmZmFycm91cGlsaGEuZWR1LmJyPiBlc2NyZXZldToNCj4NCj4-ICAgUGFyYSBmaW5zIGRlIGp1bGdhbWVudG8gZGEgZGVzY29uZm9ybWlkYWRlIG5hIGVudHJlZ2EgZG8gZW1wZW5obw0KPj4gc3VwcmFtZW5jaW9uYWRvLCBzb2xpY2l0YW1vcyBvIGVudmlvIGRvcyBkb2N1bWVudG9zIG1lbmNpb25hZG9zIHBlbGENCj4-IGVtcHJlc2EuDQo-Pg0KPj4NCj4-DQo-PiAgICBBdGVuY2lvc2FtZW50ZSwNCj4-DQo-PiAgICBJdGFtYXIgUmliYWN6DQo-PiAgICBTZXRvciBkZSBBbG1veGFyaWZhZG8gZSBQYXRyaW3DtG5pbw0KPj4gICAgSUZGYXIg4oCTIENhbXB1cyBVcnVndWFpYW5hDQo-Pg0KPj4gRW0gcXVhLiwgMyBkZSBqdW4uIGRlIDIwMjYgw6BzIDA5OjI1LCBNcGNvbWVyY2lvIFNlcnZpY29zIDwNCj4-IG1wY29tZXJjaW9zQGdtYWlsLmNvbT4gZXNjcmV2ZXU6DQo-Pg0KPj4-IFByZXphZG8sDQo-Pj4NCj4-PiBJbmZvcm1hbW9zIHF1ZSBuYSDDqXBvY2Egb2NvcnJlcmFtIHbDoXJpYXMgc2l0dWHDp8O1ZXMgasOhIHJlbGF0YWRhcywgcG9yDQo-Pj4gZXhlbXBsbywgc2VjYSBlbSBNYW5hdXMgcXVlIGltcGFjdG91IG5hIGluZMO6c3RyaWEgZGUgYXIgY29uZGljaW9uYWRvLCBjdWpvLA0KPj4-IHRvZGFzIGFzIGluZMO6c3RyaWFzIGZpY2FtIGxvY2FsaXphZGFzIG5hIHJlZ2nDo28uDQo-Pj4NCj4-PiBJbmZlbGl6bWVudGUsIG7Do28gdGluaGEgYXBhcmVsaG9zIGRpc3BvbsOtdmVpcywgY29uZm9ybWUgZG9jdW1lbnRvcw0KPj4-IGVudmlhZG8gYSDDqXBvY2EuDQo-Pj4NCj4-PiAqTVAgQ09Nw4lSQ0lPIEUgU0VSVknDh08gTUUqDQo-Pj4gKkNOUEouMTkuMzEyLjY5MS8wMDAxLTk3Kg0KPj4-ICpUZWwuOiAoMjcpIDk5OTgyLjMwMDIqDQo-Pj4NCj4-Pg0KPj4-DQo-Pj4gRW0gdGVyLiwgMiBkZSBqdW4uIGRlIDIwMjYgw6BzIDE0OjQzLCBDb29yZGVuYcOnw6NvIGRlIEFsbW94YXJpZmFkbyBlDQo-Pj4gUGF0cmltw7RuaW8gQ2FtcHVzIFVydWd1YWlhbmEgPGNhcC51Z0BpZmZhcnJvdXBpbGhhLmVkdS5icj4gZXNjcmV2ZXU6DQo-Pj4NCj4-Pj4gICBQcmV6YWRvcywNCj4-Pj4NCj4-Pj4gICBFbmNhbWluaGFtb3MsIGVtIGFuZXhvLCBkb2N1bWVudG8gcmVmZXJlbnRlIGFvIFByb2Nlc3NvDQo-Pj4-IEFkbWluaXN0cmF0aXZvIFNhbmNpb25hZG9yIGluc3RhdXJhZG8gZW0gZmFjZSBkZXN0YSBlbXByZXNhLCAqZW0gcmF6w6NvDQo-Pj4-IGRvIGRlc2N1bXByaW1lbnRvIGNvbnRyYXR1YWwgZGVjb3JyZW50ZSBkYSBuw6NvIGVudHJlZ2EgZG8ocykgb2JqZXRvKHMpDQo-Pj4-IGNvbnN0YW50ZShzKSBubyBlbXBlbmhvIDIwMjNORTAwMDMyNC4qDQo-Pj4-DQo-Pj4-DQo-Pj4-DQo-Pj4-DQo-Pj4-ICAgIEF0ZW5jaW9zYW1lbnRlLA0KPj4-Pg0KPj4-PiAgICBJdGFtYXIgUmliYWN6DQo-Pj4-ICAgIFNldG9yIGRlIEFsbW94YXJpZmFkbyBlIFBhdHJpbcO0bmlvDQo-Pj4-ICAgIElGRmFyIOKAkyBDYW1wdXMgVXJ1Z3VhaWFuYQ0KPj4-Pg0KPj4-DQo="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "quoted-printable"
+              }
+            ],
+            "body": {
+              "size": 5609,
+              "data": "PGRpdiBkaXI9Imx0ciI-PHAgY2xhc3M9ImdtYWlsLWlzU2VsZWN0ZWRFbmQiPsKgUHJlemFkbyw8L3A-PHAgY2xhc3M9ImdtYWlsLWlzU2VsZWN0ZWRFbmQiPsKgQ29uZmlybWFtb3MgbyByZWNlYmltZW50byBkb3MgZG9jdW1lbnRvcyBlbmNhbWluaGFkb3MgcGVsYSBlbXByZXNhIHJlZmVyZW50ZXMgYW8gcGVkaWRvIGRlIHJlZXF1aWzDrWJyaW8gY29udHJhdHVhbC48L3A-PHAgY2xhc3M9ImdtYWlsLWlzU2VsZWN0ZWRFbmQiPsKgSW5mb3JtYW1vcyBxdWUgYSBkb2N1bWVudGHDp8OjbyBzZXLDoSBhbmFsaXNhZGEgcGVsYSBBZG1pbmlzdHJhw6fDo28gZSBjb25zaWRlcmFkYSBubyDDom1iaXRvIGRvIFByb2Nlc3NvIEFkbWluaXN0cmF0aXZvIFNhbmNpb25hZG9yIGVtIGN1cnNvLiBDYXNvIGhhamEgbmVjZXNzaWRhZGUgZGUgZXNjbGFyZWNpbWVudG9zIG91IGNvbXBsZW1lbnRhw6fDo28gZGUgaW5mb3JtYcOnw7VlcywgZW50cmFyZW1vcyBlbSBjb250YXRvIG9wb3J0dW5hbWVudGUuPC9wPjxwIGNsYXNzPSJnbWFpbC1pc1NlbGVjdGVkRW5kIj7CoEF0ZW5jaW9zYW1lbnRlLDwvcD48cD7CoEl0YW1hciBSaWJhY3o8YnI-wqBTZXRvciBkZSBBbG1veGFyaWZhZG8gZSBQYXRyaW3DtG5pbzxicj7CoElGRmFyIOKAkyBDYW1wdXMgVXJ1Z3VhaWFuYTwvcD48L2Rpdj48YnI-PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUgZ21haWxfcXVvdGVfY29udGFpbmVyIj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfYXR0ciI-RW0gdGVyLiwgOSBkZSBqdW4uIGRlIDIwMjYgw6BzIDEzOjQ0LCBNcGNvbWVyY2lvIFNlcnZpY29zICZsdDs8YSBocmVmPSJtYWlsdG86bXBjb21lcmNpb3NAZ21haWwuY29tIj5tcGNvbWVyY2lvc0BnbWFpbC5jb208L2E-Jmd0OyBlc2NyZXZldTo8YnI-PC9kaXY-PGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2luOjBweCAwcHggMHB4IDAuOGV4O2JvcmRlci1sZWZ0OjFweCBzb2xpZCByZ2IoMjA0LDIwNCwyMDQpO3BhZGRpbmctbGVmdDoxZXgiPjxkaXYgZGlyPSJsdHIiPjxkaXY-U2VndWUgZG9jdW1lbnRvcyBlbnZpYWRvcyBuYSDDqXBvY2HCoGNvbSBwZWRpZG8gZGUgcmVlcXVpbMOtYnJpbyBjb250cmF0dWFsLjwvZGl2PjxkaXY-PGJyPjwvZGl2PjxkaXY-YXR0LjwvZGl2PjxkaXY-PGJyPjwvZGl2PjxkaXY-PGJyPjwvZGl2PjxkaXY-PGRpdiBkaXI9Imx0ciIgY2xhc3M9ImdtYWlsX3NpZ25hdHVyZSI-PGRpdiBkaXI9Imx0ciI-PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXY-PGRpdiBkaXI9Imx0ciI-PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPjwvZm9udD48L2I-PC9kaXY-PGRpdiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LXNpemU6MTIuOHB4Ij48Yj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI-TVAgQ09Nw4lSQ0lPIEUgU0VSVknDh08gTUU8L2ZvbnQ-PC9iPjwvZGl2PjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPkNOUEouMTkuMzEyLjY5MS8wMDAxLTk3PC9mb250PjwvYj48L2Rpdj48ZGl2IHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDApO2ZvbnQtc2l6ZToxMi44cHgiPjxiPjxmb250IGZhY2U9ImFyaWFsLCBzYW5zLXNlcmlmIj5UZWwuOiAoMjcpIDk5OTgyLjMwMDI8L2ZvbnQ-PC9iPjwvZGl2PjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGk-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPsKgPGltZyB3aWR0aD0iODQiIGhlaWdodD0iOTYiIHNyYz0iaHR0cHM6Ly9jaTMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL21haWwtc2lnL0FJb3JLNHdNUmR5OFd5cG9jRkdmLXAxWHhzV3NSeXV5SXVGTkF1U1pZZU1CUUJFVmpBYUFMRjhUeGRoejl0NU1kQkVtVm9ONmh5NktsSEZJTGhhMSI-IMKgIMKgIMKgwqA8L2ZvbnQ-PC9pPjwvYj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48YnI-PC9kaXY-PGJyPjxkaXYgY2xhc3M9ImdtYWlsX3F1b3RlIj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfYXR0ciI-RW0gcXVhLiwgMyBkZSBqdW4uIGRlIDIwMjYgw6BzIDE3OjE0LCBDb29yZGVuYcOnw6NvIGRlIEFsbW94YXJpZmFkbyBlIFBhdHJpbcO0bmlvIENhbXB1cyBVcnVndWFpYW5hICZsdDs8YSBocmVmPSJtYWlsdG86Y2FwLnVnQGlmZmFycm91cGlsaGEuZWR1LmJyIiB0YXJnZXQ9Il9ibGFuayI-Y2FwLnVnQGlmZmFycm91cGlsaGEuZWR1LmJyPC9hPiZndDsgZXNjcmV2ZXU6PGJyPjwvZGl2PjxibG9ja3F1b3RlIGNsYXNzPSJnbWFpbF9xdW90ZSIgc3R5bGU9Im1hcmdpbjowcHggMHB4IDBweCAwLjhleDtib3JkZXItbGVmdDoxcHggc29saWQgcmdiKDIwNCwyMDQsMjA0KTtwYWRkaW5nLWxlZnQ6MWV4Ij48ZGl2IGRpcj0ibHRyIj7CoCBQYXJhIGZpbnMgZGUganVsZ2FtZW50byBkYSBkZXNjb25mb3JtaWRhZGUgbmEgZW50cmVnYSBkbyBlbXBlbmhvIHN1cHJhbWVuY2lvbmFkbywgc29saWNpdGFtb3MgbyBlbnZpbyBkb3MgZG9jdW1lbnRvcyBtZW5jaW9uYWRvcyBwZWxhIGVtcHJlc2EuwqDCoDxkaXY-PGJyPjwvZGl2PjxkaXY-PGJyPjwvZGl2PjxkaXY-PGJyPjwvZGl2PjxkaXY-PHA-wqAgwqBBdGVuY2lvc2FtZW50ZSw8L3A-PHA-wqAgwqBJdGFtYXIgUmliYWN6PGJyPsKgIMKgU2V0b3IgZGUgQWxtb3hhcmlmYWRvIGUgUGF0cmltw7RuaW88YnI-wqAgwqBJRkZhciDigJMgQ2FtcHVzIFVydWd1YWlhbmE8L3A-PC9kaXY-PC9kaXY-PGJyPjxkaXYgY2xhc3M9ImdtYWlsX3F1b3RlIj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfYXR0ciI-RW0gcXVhLiwgMyBkZSBqdW4uIGRlIDIwMjYgw6BzIDA5OjI1LCBNcGNvbWVyY2lvIFNlcnZpY29zICZsdDs8YSBocmVmPSJtYWlsdG86bXBjb21lcmNpb3NAZ21haWwuY29tIiB0YXJnZXQ9Il9ibGFuayI-bXBjb21lcmNpb3NAZ21haWwuY29tPC9hPiZndDsgZXNjcmV2ZXU6PGJyPjwvZGl2PjxibG9ja3F1b3RlIGNsYXNzPSJnbWFpbF9xdW90ZSIgc3R5bGU9Im1hcmdpbjowcHggMHB4IDBweCAwLjhleDtib3JkZXItbGVmdDoxcHggc29saWQgcmdiKDIwNCwyMDQsMjA0KTtwYWRkaW5nLWxlZnQ6MWV4Ij48ZGl2IGRpcj0ibHRyIj48ZGl2PlByZXphZG8sPC9kaXY-PGRpdj48YnI-PC9kaXY-PGRpdj5JbmZvcm1hbW9zIHF1ZSBuYSDDqXBvY2Egb2NvcnJlcmFtIHbDoXJpYXPCoHNpdHVhw6fDtWVzIGrDoSByZWxhdGFkYXMsIHBvciBleGVtcGxvLCBzZWNhIGVtIE1hbmF1cyBxdWUgaW1wYWN0b3UgbmEgaW5kw7pzdHJpYSBkZSBhciBjb25kaWNpb25hZG8sIGN1am8sIHRvZGFzIGFzIGluZMO6c3RyaWFzwqBmaWNhbSBsb2NhbGl6YWRhcyBuYSByZWdpw6NvLjwvZGl2PjxkaXY-PGJyPjwvZGl2PjxkaXY-SW5mZWxpem1lbnRlLCBuw6NvIHRpbmhhIGFwYXJlbGhvcyBkaXNwb27DrXZlaXMsIGNvbmZvcm1lIGRvY3VtZW50b3MgZW52aWFkbyBhIMOpcG9jYS48L2Rpdj48ZGl2PsKgPC9kaXY-PGRpdj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfc2lnbmF0dXJlIj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXY-PGRpdiBkaXI9Imx0ciI-PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXY-PGRpdiBkaXI9Imx0ciI-PGRpdiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LXNpemU6MTIuOHB4Ij48Yj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI-PC9mb250PjwvYj48L2Rpdj48ZGl2IHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDApO2ZvbnQtc2l6ZToxMi44cHgiPjxiPjxmb250IGZhY2U9ImFyaWFsLCBzYW5zLXNlcmlmIj5NUCBDT03DiVJDSU8gRSBTRVJWScOHTyBNRTwvZm9udD48L2I-PC9kaXY-PGRpdiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LXNpemU6MTIuOHB4Ij48Yj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI-Q05QSi4xOS4zMTIuNjkxLzAwMDEtOTc8L2ZvbnQ-PC9iPjwvZGl2PjxkaXYgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCk7Zm9udC1zaXplOjEyLjhweCI-PGI-PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPlRlbC46ICgyNykgOTk5ODIuMzAwMjwvZm9udD48L2I-PC9kaXY-PGRpdiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LXNpemU6MTIuOHB4Ij48Yj48aT48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI-wqA8aW1nIHdpZHRoPSI4NCIgaGVpZ2h0PSI5NiIgc3JjPSJodHRwczovL2NpMy5nb29nbGV1c2VyY29udGVudC5jb20vbWFpbC1zaWcvQUlvcks0d01SZHk4V3lwb2NGR2YtcDFYeHNXc1J5dXlJdUZOQXVTWlllTUJRQkVWakFhQUxGOFR4ZGh6OXQ1TWRCRW1Wb042aHk2S2xIRklMaGExIj4gwqAgwqAgwqDCoDwvZm9udD48L2k-PC9iPjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2Pjxicj48L2Rpdj48YnI-PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPjxkaXYgZGlyPSJsdHIiIGNsYXNzPSJnbWFpbF9hdHRyIj5FbSB0ZXIuLCAyIGRlIGp1bi4gZGUgMjAyNiDDoHMgMTQ6NDMsIENvb3JkZW5hw6fDo28gZGUgQWxtb3hhcmlmYWRvIGUgUGF0cmltw7RuaW8gQ2FtcHVzIFVydWd1YWlhbmEgJmx0OzxhIGhyZWY9Im1haWx0bzpjYXAudWdAaWZmYXJyb3VwaWxoYS5lZHUuYnIiIHRhcmdldD0iX2JsYW5rIj5jYXAudWdAaWZmYXJyb3VwaWxoYS5lZHUuYnI8L2E-Jmd0OyBlc2NyZXZldTo8YnI-PC9kaXY-PGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2luOjBweCAwcHggMHB4IDAuOGV4O2JvcmRlci1sZWZ0OjFweCBzb2xpZCByZ2IoMjA0LDIwNCwyMDQpO3BhZGRpbmctbGVmdDoxZXgiPjxkaXYgZGlyPSJsdHIiPjxwPsKgIFByZXphZG9zLDwvcD48cD7CoCBFbmNhbWluaGFtb3MsIGVtIGFuZXhvLCBkb2N1bWVudG8gcmVmZXJlbnRlIGFvIFByb2Nlc3NvIEFkbWluaXN0cmF0aXZvIFNhbmNpb25hZG9yIGluc3RhdXJhZG8gZW0gZmFjZSBkZXN0YSBlbXByZXNhLMKgPGI-ZW0gcmF6w6NvIGRvIGRlc2N1bXByaW1lbnRvIGNvbnRyYXR1YWwgZGVjb3JyZW50ZSBkYSBuw6NvIGVudHJlZ2EgZG8ocykgb2JqZXRvKHMpIGNvbnN0YW50ZShzKSBubyBlbXBlbmhvIDIwMjNORTAwMDMyNC48L2I-wqA8L3A-PHA-PGJyPjwvcD48cD48YnI-PC9wPjxwPjxicj48L3A-PHA-wqAgwqBBdGVuY2lvc2FtZW50ZSw8L3A-PHA-wqAgwqBJdGFtYXIgUmliYWN6PGJyPsKgIMKgU2V0b3IgZGUgQWxtb3hhcmlmYWRvIGUgUGF0cmltw7RuaW88YnI-wqAgwqBJRkZhciDigJMgQ2FtcHVzIFVydWd1YWlhbmE8L3A-PC9kaXY-DQo8L2Jsb2NrcXVvdGU-PC9kaXY-DQo8L2Jsb2NrcXVvdGU-PC9kaXY-DQo8L2Jsb2NrcXVvdGU-PC9kaXY-DQo8L2Jsb2NrcXVvdGU-PC9kaXY-DQo="
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 10225,
+      "historyId": "813119",
+      "internalDate": "1781034042000"
+    }
+  ]
+}
